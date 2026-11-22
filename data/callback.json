@@ -1,0 +1,40 @@
+{
+  "fields": [
+    "id",
+    "household",
+    "site",
+    "due",
+    "status"
+  ],
+  "key": "id",
+  "rows": [
+    {
+      "id": "B01",
+      "household": "H096",
+      "site": "S3",
+      "due": "2026-07-06",
+      "status": "confirmed"
+    },
+    {
+      "id": "B02",
+      "household": "H104",
+      "site": "S1",
+      "due": "2026-07-06",
+      "status": "confirmed"
+    },
+    {
+      "id": "B03",
+      "household": "H087",
+      "site": "S4",
+      "due": "2026-07-06",
+      "status": "withdrawn"
+    },
+    {
+      "id": "B04",
+      "household": "H064",
+      "site": "S1",
+      "due": "2026-06-29",
+      "status": "verified"
+    }
+  ]
+}

@@ -1,0 +1,997 @@
+{
+  "fields": [
+    "episode",
+    "household",
+    "site",
+    "group",
+    "begins",
+    "ends"
+  ],
+  "key": "episode",
+  "rows": [
+    {
+      "episode": "H001-1",
+      "household": "H001",
+      "site": "S2",
+      "group": "support",
+      "begins": "2026-02-09",
+      "ends": "2026-03-23"
+    },
+    {
+      "episode": "H002-1",
+      "household": "H002",
+      "site": "S3",
+      "group": "remote",
+      "begins": "2026-02-16",
+      "ends": "2026-03-30"
+    },
+    {
+      "episode": "H003-1",
+      "household": "H003",
+      "site": "S4",
+      "group": "regular",
+      "begins": "2026-02-23",
+      "ends": "2026-04-06"
+    },
+    {
+      "episode": "H004-1",
+      "household": "H004",
+      "site": "S1",
+      "group": "support",
+      "begins": "2026-03-02",
+      "ends": "2026-04-13"
+    },
+    {
+      "episode": "H005-1",
+      "household": "H005",
+      "site": "S2",
+      "group": "remote",
+      "begins": "2026-03-09",
+      "ends": "2026-04-20"
+    },
+    {
+      "episode": "H006-1",
+      "household": "H006",
+      "site": "S3",
+      "group": "regular",
+      "begins": "2026-03-16",
+      "ends": "2026-04-27"
+    },
+    {
+      "episode": "H007-1",
+      "household": "H007",
+      "site": "S4",
+      "group": "support",
+      "begins": "2026-03-23",
+      "ends": "2026-05-04"
+    },
+    {
+      "episode": "H008-1",
+      "household": "H008",
+      "site": "S1",
+      "group": "remote",
+      "begins": "2026-03-30",
+      "ends": "2026-05-11"
+    },
+    {
+      "episode": "H008-2",
+      "household": "H008",
+      "site": "S1",
+      "group": "remote",
+      "begins": "2026-06-01",
+      "ends": "2026-07-13"
+    },
+    {
+      "episode": "H009-1",
+      "household": "H009",
+      "site": "S2",
+      "group": "regular",
+      "begins": "2026-04-06",
+      "ends": "2026-05-18"
+    },
+    {
+      "episode": "H010-1",
+      "household": "H010",
+      "site": "S3",
+      "group": "support",
+      "begins": "2026-04-13",
+      "ends": "2026-05-25"
+    },
+    {
+      "episode": "H011-1",
+      "household": "H011",
+      "site": "S4",
+      "group": "remote",
+      "begins": "2026-04-20",
+      "ends": "2026-06-01"
+    },
+    {
+      "episode": "H012-1",
+      "household": "H012",
+      "site": "S1",
+      "group": "regular",
+      "begins": "2026-04-27",
+      "ends": "2026-06-08"
+    },
+    {
+      "episode": "H013-1",
+      "household": "H013",
+      "site": "S2",
+      "group": "support",
+      "begins": "2026-05-04",
+      "ends": "2026-06-15"
+    },
+    {
+      "episode": "H014-1",
+      "household": "H014",
+      "site": "S3",
+      "group": "remote",
+      "begins": "2026-05-11",
+      "ends": "2026-06-22"
+    },
+    {
+      "episode": "H015-1",
+      "household": "H015",
+      "site": "S4",
+      "group": "regular",
+      "begins": "2026-05-18",
+      "ends": "2026-06-29"
+    },
+    {
+      "episode": "H016-1",
+      "household": "H016",
+      "site": "S1",
+      "group": "support",
+      "begins": "2026-05-25",
+      "ends": "2026-07-06"
+    },
+    {
+      "episode": "H016-2",
+      "household": "H016",
+      "site": "S1",
+      "group": "support",
+      "begins": "2026-07-27",
+      "ends": "2026-09-07"
+    },
+    {
+      "episode": "H017-1",
+      "household": "H017",
+      "site": "S2",
+      "group": "remote",
+      "begins": "2026-06-01",
+      "ends": "2026-07-13"
+    },
+    {
+      "episode": "H018-1",
+      "household": "H018",
+      "site": "S3",
+      "group": "regular",
+      "begins": "2026-02-02",
+      "ends": "2026-03-16"
+    },
+    {
+      "episode": "H019-1",
+      "household": "H019",
+      "site": "S4",
+      "group": "support",
+      "begins": "2026-02-09",
+      "ends": "2026-03-23"
+    },
+    {
+      "episode": "H020-1",
+      "household": "H020",
+      "site": "S1",
+      "group": "remote",
+      "begins": "2026-02-16",
+      "ends": "2026-03-30"
+    },
+    {
+      "episode": "H021-1",
+      "household": "H021",
+      "site": "S2",
+      "group": "regular",
+      "begins": "2026-02-23",
+      "ends": "2026-04-06"
+    },
+    {
+      "episode": "H022-1",
+      "household": "H022",
+      "site": "S3",
+      "group": "support",
+      "begins": "2026-03-02",
+      "ends": "2026-04-13"
+    },
+    {
+      "episode": "H023-1",
+      "household": "H023",
+      "site": "S4",
+      "group": "remote",
+      "begins": "2026-03-09",
+      "ends": "2026-04-20"
+    },
+    {
+      "episode": "H024-1",
+      "household": "H024",
+      "site": "S1",
+      "group": "regular",
+      "begins": "2026-03-16",
+      "ends": "2026-04-27"
+    },
+    {
+      "episode": "H024-2",
+      "household": "H024",
+      "site": "S1",
+      "group": "regular",
+      "begins": "2026-05-18",
+      "ends": "2026-06-29"
+    },
+    {
+      "episode": "H025-1",
+      "household": "H025",
+      "site": "S2",
+      "group": "support",
+      "begins": "2026-03-23",
+      "ends": "2026-05-04"
+    },
+    {
+      "episode": "H026-1",
+      "household": "H026",
+      "site": "S3",
+      "group": "remote",
+      "begins": "2026-03-30",
+      "ends": "2026-05-11"
+    },
+    {
+      "episode": "H027-1",
+      "household": "H027",
+      "site": "S4",
+      "group": "regular",
+      "begins": "2026-04-06",
+      "ends": "2026-05-18"
+    },
+    {
+      "episode": "H028-1",
+      "household": "H028",
+      "site": "S1",
+      "group": "support",
+      "begins": "2026-04-13",
+      "ends": "2026-05-25"
+    },
+    {
+      "episode": "H029-1",
+      "household": "H029",
+      "site": "S2",
+      "group": "remote",
+      "begins": "2026-04-20",
+      "ends": "2026-06-01"
+    },
+    {
+      "episode": "H030-1",
+      "household": "H030",
+      "site": "S3",
+      "group": "regular",
+      "begins": "2026-04-27",
+      "ends": "2026-06-08"
+    },
+    {
+      "episode": "H031-1",
+      "household": "H031",
+      "site": "S4",
+      "group": "support",
+      "begins": "2026-05-04",
+      "ends": "2026-06-15"
+    },
+    {
+      "episode": "H032-1",
+      "household": "H032",
+      "site": "S1",
+      "group": "remote",
+      "begins": "2026-05-11",
+      "ends": "2026-06-22"
+    },
+    {
+      "episode": "H032-2",
+      "household": "H032",
+      "site": "S1",
+      "group": "remote",
+      "begins": "2026-07-13",
+      "ends": "2026-08-24"
+    },
+    {
+      "episode": "H033-1",
+      "household": "H033",
+      "site": "S2",
+      "group": "regular",
+      "begins": "2026-05-18",
+      "ends": "2026-06-29"
+    },
+    {
+      "episode": "H034-1",
+      "household": "H034",
+      "site": "S3",
+      "group": "support",
+      "begins": "2026-05-25",
+      "ends": "2026-07-06"
+    },
+    {
+      "episode": "H035-1",
+      "household": "H035",
+      "site": "S4",
+      "group": "remote",
+      "begins": "2026-06-01",
+      "ends": "2026-07-13"
+    },
+    {
+      "episode": "H036-1",
+      "household": "H036",
+      "site": "S1",
+      "group": "regular",
+      "begins": "2026-02-02",
+      "ends": "2026-03-16"
+    },
+    {
+      "episode": "H037-1",
+      "household": "H037",
+      "site": "S2",
+      "group": "support",
+      "begins": "2026-02-09",
+      "ends": "2026-03-23"
+    },
+    {
+      "episode": "H038-1",
+      "household": "H038",
+      "site": "S3",
+      "group": "remote",
+      "begins": "2026-02-16",
+      "ends": "2026-03-30"
+    },
+    {
+      "episode": "H039-1",
+      "household": "H039",
+      "site": "S4",
+      "group": "regular",
+      "begins": "2026-02-23",
+      "ends": "2026-04-06"
+    },
+    {
+      "episode": "H040-1",
+      "household": "H040",
+      "site": "S1",
+      "group": "support",
+      "begins": "2026-03-02",
+      "ends": "2026-04-13"
+    },
+    {
+      "episode": "H040-2",
+      "household": "H040",
+      "site": "S1",
+      "group": "support",
+      "begins": "2026-05-04",
+      "ends": "2026-06-15"
+    },
+    {
+      "episode": "H041-1",
+      "household": "H041",
+      "site": "S2",
+      "group": "remote",
+      "begins": "2026-03-09",
+      "ends": "2026-04-20"
+    },
+    {
+      "episode": "H042-1",
+      "household": "H042",
+      "site": "S3",
+      "group": "regular",
+      "begins": "2026-03-16",
+      "ends": "2026-04-27"
+    },
+    {
+      "episode": "H043-1",
+      "household": "H043",
+      "site": "S4",
+      "group": "support",
+      "begins": "2026-03-23",
+      "ends": "2026-05-04"
+    },
+    {
+      "episode": "H044-1",
+      "household": "H044",
+      "site": "S1",
+      "group": "remote",
+      "begins": "2026-03-30",
+      "ends": "2026-05-11"
+    },
+    {
+      "episode": "H045-1",
+      "household": "H045",
+      "site": "S2",
+      "group": "regular",
+      "begins": "2026-04-06",
+      "ends": "2026-05-18"
+    },
+    {
+      "episode": "H046-1",
+      "household": "H046",
+      "site": "S3",
+      "group": "support",
+      "begins": "2026-04-13",
+      "ends": "2026-05-25"
+    },
+    {
+      "episode": "H047-1",
+      "household": "H047",
+      "site": "S4",
+      "group": "remote",
+      "begins": "2026-04-20",
+      "ends": "2026-06-01"
+    },
+    {
+      "episode": "H048-1",
+      "household": "H048",
+      "site": "S1",
+      "group": "regular",
+      "begins": "2026-04-27",
+      "ends": "2026-06-08"
+    },
+    {
+      "episode": "H048-2",
+      "household": "H048",
+      "site": "S1",
+      "group": "regular",
+      "begins": "2026-06-29",
+      "ends": "2026-08-10"
+    },
+    {
+      "episode": "H049-1",
+      "household": "H049",
+      "site": "S2",
+      "group": "support",
+      "begins": "2026-05-04",
+      "ends": "2026-06-15"
+    },
+    {
+      "episode": "H050-1",
+      "household": "H050",
+      "site": "S3",
+      "group": "remote",
+      "begins": "2026-05-11",
+      "ends": "2026-06-22"
+    },
+    {
+      "episode": "H051-1",
+      "household": "H051",
+      "site": "S4",
+      "group": "regular",
+      "begins": "2026-05-18",
+      "ends": "2026-06-29"
+    },
+    {
+      "episode": "H052-1",
+      "household": "H052",
+      "site": "S1",
+      "group": "support",
+      "begins": "2026-05-25",
+      "ends": "2026-07-06"
+    },
+    {
+      "episode": "H053-1",
+      "household": "H053",
+      "site": "S2",
+      "group": "remote",
+      "begins": "2026-06-01",
+      "ends": "2026-07-13"
+    },
+    {
+      "episode": "H054-1",
+      "household": "H054",
+      "site": "S3",
+      "group": "regular",
+      "begins": "2026-02-02",
+      "ends": "2026-03-16"
+    },
+    {
+      "episode": "H055-1",
+      "household": "H055",
+      "site": "S4",
+      "group": "support",
+      "begins": "2026-02-09",
+      "ends": "2026-03-23"
+    },
+    {
+      "episode": "H056-1",
+      "household": "H056",
+      "site": "S1",
+      "group": "remote",
+      "begins": "2026-02-16",
+      "ends": "2026-03-30"
+    },
+    {
+      "episode": "H056-2",
+      "household": "H056",
+      "site": "S1",
+      "group": "remote",
+      "begins": "2026-04-20",
+      "ends": "2026-06-01"
+    },
+    {
+      "episode": "H057-1",
+      "household": "H057",
+      "site": "S2",
+      "group": "regular",
+      "begins": "2026-02-23",
+      "ends": "2026-04-06"
+    },
+    {
+      "episode": "H058-1",
+      "household": "H058",
+      "site": "S3",
+      "group": "support",
+      "begins": "2026-03-02",
+      "ends": "2026-04-13"
+    },
+    {
+      "episode": "H059-1",
+      "household": "H059",
+      "site": "S4",
+      "group": "remote",
+      "begins": "2026-03-09",
+      "ends": "2026-04-20"
+    },
+    {
+      "episode": "H060-1",
+      "household": "H060",
+      "site": "S1",
+      "group": "regular",
+      "begins": "2026-03-16",
+      "ends": "2026-04-27"
+    },
+    {
+      "episode": "H061-1",
+      "household": "H061",
+      "site": "S2",
+      "group": "support",
+      "begins": "2026-03-23",
+      "ends": "2026-05-04"
+    },
+    {
+      "episode": "H062-1",
+      "household": "H062",
+      "site": "S3",
+      "group": "remote",
+      "begins": "2026-03-30",
+      "ends": "2026-05-11"
+    },
+    {
+      "episode": "H063-1",
+      "household": "H063",
+      "site": "S4",
+      "group": "regular",
+      "begins": "2026-04-06",
+      "ends": "2026-05-18"
+    },
+    {
+      "episode": "H064-1",
+      "household": "H064",
+      "site": "S1",
+      "group": "support",
+      "begins": "2026-04-13",
+      "ends": "2026-05-25"
+    },
+    {
+      "episode": "H064-2",
+      "household": "H064",
+      "site": "S1",
+      "group": "support",
+      "begins": "2026-06-15",
+      "ends": "2026-07-27"
+    },
+    {
+      "episode": "H065-1",
+      "household": "H065",
+      "site": "S2",
+      "group": "remote",
+      "begins": "2026-04-20",
+      "ends": "2026-06-01"
+    },
+    {
+      "episode": "H066-1",
+      "household": "H066",
+      "site": "S3",
+      "group": "regular",
+      "begins": "2026-04-27",
+      "ends": "2026-06-08"
+    },
+    {
+      "episode": "H067-1",
+      "household": "H067",
+      "site": "S4",
+      "group": "support",
+      "begins": "2026-05-04",
+      "ends": "2026-06-15"
+    },
+    {
+      "episode": "H068-1",
+      "household": "H068",
+      "site": "S1",
+      "group": "remote",
+      "begins": "2026-05-11",
+      "ends": "2026-06-22"
+    },
+    {
+      "episode": "H069-1",
+      "household": "H069",
+      "site": "S2",
+      "group": "regular",
+      "begins": "2026-05-18",
+      "ends": "2026-06-29"
+    },
+    {
+      "episode": "H070-1",
+      "household": "H070",
+      "site": "S3",
+      "group": "support",
+      "begins": "2026-05-25",
+      "ends": "2026-07-06"
+    },
+    {
+      "episode": "H071-1",
+      "household": "H071",
+      "site": "S4",
+      "group": "remote",
+      "begins": "2026-06-01",
+      "ends": "2026-07-13"
+    },
+    {
+      "episode": "H072-1",
+      "household": "H072",
+      "site": "S1",
+      "group": "regular",
+      "begins": "2026-02-02",
+      "ends": "2026-03-16"
+    },
+    {
+      "episode": "H072-2",
+      "household": "H072",
+      "site": "S1",
+      "group": "regular",
+      "begins": "2026-04-06",
+      "ends": "2026-05-18"
+    },
+    {
+      "episode": "H073-1",
+      "household": "H073",
+      "site": "S2",
+      "group": "support",
+      "begins": "2026-02-09",
+      "ends": "2026-03-23"
+    },
+    {
+      "episode": "H074-1",
+      "household": "H074",
+      "site": "S3",
+      "group": "remote",
+      "begins": "2026-02-16",
+      "ends": "2026-03-30"
+    },
+    {
+      "episode": "H075-1",
+      "household": "H075",
+      "site": "S4",
+      "group": "regular",
+      "begins": "2026-02-23",
+      "ends": "2026-04-06"
+    },
+    {
+      "episode": "H076-1",
+      "household": "H076",
+      "site": "S1",
+      "group": "support",
+      "begins": "2026-03-02",
+      "ends": "2026-04-13"
+    },
+    {
+      "episode": "H077-1",
+      "household": "H077",
+      "site": "S2",
+      "group": "remote",
+      "begins": "2026-03-09",
+      "ends": "2026-04-20"
+    },
+    {
+      "episode": "H078-1",
+      "household": "H078",
+      "site": "S3",
+      "group": "regular",
+      "begins": "2026-03-16",
+      "ends": "2026-04-27"
+    },
+    {
+      "episode": "H079-1",
+      "household": "H079",
+      "site": "S4",
+      "group": "support",
+      "begins": "2026-03-23",
+      "ends": "2026-05-04"
+    },
+    {
+      "episode": "H080-1",
+      "household": "H080",
+      "site": "S1",
+      "group": "remote",
+      "begins": "2026-03-30",
+      "ends": "2026-05-11"
+    },
+    {
+      "episode": "H080-2",
+      "household": "H080",
+      "site": "S1",
+      "group": "remote",
+      "begins": "2026-06-01",
+      "ends": "2026-07-13"
+    },
+    {
+      "episode": "H081-1",
+      "household": "H081",
+      "site": "S2",
+      "group": "regular",
+      "begins": "2026-04-06",
+      "ends": "2026-05-18"
+    },
+    {
+      "episode": "H082-1",
+      "household": "H082",
+      "site": "S3",
+      "group": "support",
+      "begins": "2026-04-13",
+      "ends": "2026-05-25"
+    },
+    {
+      "episode": "H083-1",
+      "household": "H083",
+      "site": "S4",
+      "group": "remote",
+      "begins": "2026-04-20",
+      "ends": "2026-06-01"
+    },
+    {
+      "episode": "H084-1",
+      "household": "H084",
+      "site": "S1",
+      "group": "regular",
+      "begins": "2026-04-27",
+      "ends": "2026-06-08"
+    },
+    {
+      "episode": "H085-1",
+      "household": "H085",
+      "site": "S2",
+      "group": "support",
+      "begins": "2026-05-04",
+      "ends": "2026-06-15"
+    },
+    {
+      "episode": "H086-1",
+      "household": "H086",
+      "site": "S3",
+      "group": "remote",
+      "begins": "2026-05-11",
+      "ends": "2026-06-22"
+    },
+    {
+      "episode": "H087-1",
+      "household": "H087",
+      "site": "S4",
+      "group": "regular",
+      "begins": "2026-05-18",
+      "ends": "2026-06-29"
+    },
+    {
+      "episode": "H088-1",
+      "household": "H088",
+      "site": "S1",
+      "group": "support",
+      "begins": "2026-05-25",
+      "ends": "2026-07-06"
+    },
+    {
+      "episode": "H088-2",
+      "household": "H088",
+      "site": "S1",
+      "group": "support",
+      "begins": "2026-07-27",
+      "ends": "2026-09-07"
+    },
+    {
+      "episode": "H089-1",
+      "household": "H089",
+      "site": "S2",
+      "group": "remote",
+      "begins": "2026-06-01",
+      "ends": "2026-07-13"
+    },
+    {
+      "episode": "H090-1",
+      "household": "H090",
+      "site": "S3",
+      "group": "regular",
+      "begins": "2026-02-02",
+      "ends": "2026-03-16"
+    },
+    {
+      "episode": "H091-1",
+      "household": "H091",
+      "site": "S4",
+      "group": "support",
+      "begins": "2026-02-09",
+      "ends": "2026-03-23"
+    },
+    {
+      "episode": "H092-1",
+      "household": "H092",
+      "site": "S1",
+      "group": "remote",
+      "begins": "2026-02-16",
+      "ends": "2026-03-30"
+    },
+    {
+      "episode": "H093-1",
+      "household": "H093",
+      "site": "S2",
+      "group": "regular",
+      "begins": "2026-02-23",
+      "ends": "2026-04-06"
+    },
+    {
+      "episode": "H094-1",
+      "household": "H094",
+      "site": "S3",
+      "group": "support",
+      "begins": "2026-03-02",
+      "ends": "2026-04-13"
+    },
+    {
+      "episode": "H095-1",
+      "household": "H095",
+      "site": "S4",
+      "group": "remote",
+      "begins": "2026-03-09",
+      "ends": "2026-04-20"
+    },
+    {
+      "episode": "H096-1",
+      "household": "H096",
+      "site": "S1",
+      "group": "regular",
+      "begins": "2026-03-16",
+      "ends": "2026-04-27"
+    },
+    {
+      "episode": "H096-2",
+      "household": "H096",
+      "site": "S1",
+      "group": "regular",
+      "begins": "2026-05-18",
+      "ends": "2026-06-29"
+    },
+    {
+      "episode": "H097-1",
+      "household": "H097",
+      "site": "S2",
+      "group": "support",
+      "begins": "2026-03-23",
+      "ends": "2026-05-04"
+    },
+    {
+      "episode": "H098-1",
+      "household": "H098",
+      "site": "S3",
+      "group": "remote",
+      "begins": "2026-03-30",
+      "ends": "2026-05-11"
+    },
+    {
+      "episode": "H099-1",
+      "household": "H099",
+      "site": "S4",
+      "group": "regular",
+      "begins": "2026-04-06",
+      "ends": "2026-05-18"
+    },
+    {
+      "episode": "H100-1",
+      "household": "H100",
+      "site": "S1",
+      "group": "support",
+      "begins": "2026-04-13",
+      "ends": "2026-05-25"
+    },
+    {
+      "episode": "H101-1",
+      "household": "H101",
+      "site": "S2",
+      "group": "remote",
+      "begins": "2026-04-20",
+      "ends": "2026-06-01"
+    },
+    {
+      "episode": "H102-1",
+      "household": "H102",
+      "site": "S3",
+      "group": "regular",
+      "begins": "2026-04-27",
+      "ends": "2026-06-08"
+    },
+    {
+      "episode": "H103-1",
+      "household": "H103",
+      "site": "S4",
+      "group": "support",
+      "begins": "2026-05-04",
+      "ends": "2026-06-15"
+    },
+    {
+      "episode": "H104-1",
+      "household": "H104",
+      "site": "S1",
+      "group": "remote",
+      "begins": "2026-05-11",
+      "ends": "2026-06-22"
+    },
+    {
+      "episode": "H104-2",
+      "household": "H104",
+      "site": "S1",
+      "group": "remote",
+      "begins": "2026-07-13",
+      "ends": "2026-08-24"
+    },
+    {
+      "episode": "H105-1",
+      "household": "H105",
+      "site": "S2",
+      "group": "regular",
+      "begins": "2026-05-18",
+      "ends": "2026-06-29"
+    },
+    {
+      "episode": "H106-1",
+      "household": "H106",
+      "site": "S3",
+      "group": "support",
+      "begins": "2026-05-25",
+      "ends": "2026-07-06"
+    },
+    {
+      "episode": "H107-1",
+      "household": "H107",
+      "site": "S4",
+      "group": "remote",
+      "begins": "2026-06-01",
+      "ends": "2026-07-13"
+    },
+    {
+      "episode": "H108-1",
+      "household": "H108",
+      "site": "S1",
+      "group": "regular",
+      "begins": "2026-02-02",
+      "ends": "2026-03-16"
+    },
+    {
+      "episode": "H109-1",
+      "household": "H109",
+      "site": "S2",
+      "group": "support",
+      "begins": "2026-02-09",
+      "ends": "2026-03-23"
+    },
+    {
+      "episode": "H110-1",
+      "household": "H110",
+      "site": "S3",
+      "group": "remote",
+      "begins": "2026-02-16",
+      "ends": "2026-03-30"
+    }
+  ]
+}

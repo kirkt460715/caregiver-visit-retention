@@ -1,0 +1,1835 @@
+{
+  "fields": [
+    "id",
+    "checkpoint",
+    "design",
+    "probabilities",
+    "arm",
+    "assigned_on",
+    "action_day",
+    "result"
+  ],
+  "key": "id",
+  "rows": [
+    {
+      "id": "O-H001-1-2",
+      "checkpoint": "H001-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-02-21",
+      "action_day": "2026-02-25",
+      "result": "booked_new"
+    },
+    {
+      "id": "O-H002-1-4",
+      "checkpoint": "H002-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-03-14",
+      "action_day": "2026-03-18",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H003-1-2",
+      "checkpoint": "H003-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-03-07",
+      "action_day": "2026-03-11",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H003-1-4",
+      "checkpoint": "H003-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-03-21",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H004-1-2",
+      "checkpoint": "H004-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-03-14",
+      "action_day": "2026-03-18",
+      "result": "alt_confirmed"
+    },
+    {
+      "id": "O-H005-1-2",
+      "checkpoint": "H005-1-2",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "arrange",
+      "assigned_on": "2026-03-21",
+      "action_day": "2026-03-25",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H005-1-4",
+      "checkpoint": "H005-1-4",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "none",
+      "assigned_on": "2026-04-04",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H006-1-2",
+      "checkpoint": "H006-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-03-28",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H006-1-4",
+      "checkpoint": "H006-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-04-11",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H007-1-2",
+      "checkpoint": "H007-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-04-04",
+      "action_day": "2026-04-08",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H008-1-2",
+      "checkpoint": "H008-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-04-11",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H008-1-4",
+      "checkpoint": "H008-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-04-25",
+      "action_day": "2026-04-29",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H008-2-2",
+      "checkpoint": "H008-2-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-06-13",
+      "action_day": "2026-06-17",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H008-2-4",
+      "checkpoint": "H008-2-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-06-27",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H009-1-4",
+      "checkpoint": "H009-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-05-02",
+      "action_day": "2026-05-06",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H010-1-2",
+      "checkpoint": "H010-1-2",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "document",
+      "assigned_on": "2026-04-25",
+      "action_day": "2026-04-29",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H010-1-4",
+      "checkpoint": "H010-1-4",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "none",
+      "assigned_on": "2026-05-09",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H011-1-2",
+      "checkpoint": "H011-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-05-02",
+      "action_day": "2026-05-06",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H012-1-4",
+      "checkpoint": "H012-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-05-23",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H013-1-2",
+      "checkpoint": "H013-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-05-16",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H013-1-4",
+      "checkpoint": "H013-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-05-30",
+      "action_day": "2026-06-03",
+      "result": "alt_confirmed"
+    },
+    {
+      "id": "O-H014-1-2",
+      "checkpoint": "H014-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-05-23",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H015-1-4",
+      "checkpoint": "H015-1-4",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "document",
+      "assigned_on": "2026-06-13",
+      "action_day": "2026-06-17",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H016-1-2",
+      "checkpoint": "H016-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-06-06",
+      "action_day": "2026-06-10",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H016-1-4",
+      "checkpoint": "H016-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-06-20",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H016-2-2",
+      "checkpoint": "H016-2-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-08-08",
+      "action_day": "2026-08-12",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H016-2-4",
+      "checkpoint": "H016-2-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-08-22",
+      "action_day": "2026-08-26",
+      "result": "booked_new"
+    },
+    {
+      "id": "O-H017-1-2",
+      "checkpoint": "H017-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-06-13",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H018-1-2",
+      "checkpoint": "H018-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-02-14",
+      "action_day": "2026-02-18",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H018-1-4",
+      "checkpoint": "H018-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-02-28",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H019-1-4",
+      "checkpoint": "H019-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-03-07",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H020-1-2",
+      "checkpoint": "H020-1-2",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "none",
+      "assigned_on": "2026-02-28",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H020-1-4",
+      "checkpoint": "H020-1-4",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "document",
+      "assigned_on": "2026-03-14",
+      "action_day": "2026-03-18",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H021-1-2",
+      "checkpoint": "H021-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-03-07",
+      "action_day": "2026-03-11",
+      "result": "alt_confirmed"
+    },
+    {
+      "id": "O-H021-1-4",
+      "checkpoint": "H021-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-03-21",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H022-1-4",
+      "checkpoint": "H022-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-03-28",
+      "action_day": "2026-04-01",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H023-1-2",
+      "checkpoint": "H023-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-03-21",
+      "action_day": "2026-03-25",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H023-1-4",
+      "checkpoint": "H023-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-04-04",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H024-1-2",
+      "checkpoint": "H024-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-03-28",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H024-2-2",
+      "checkpoint": "H024-2-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-05-30",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H025-1-4",
+      "checkpoint": "H025-1-4",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "arrange",
+      "assigned_on": "2026-04-18",
+      "action_day": "2026-04-22",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H026-1-2",
+      "checkpoint": "H026-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-04-11",
+      "action_day": "2026-04-15",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H026-1-4",
+      "checkpoint": "H026-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-04-25",
+      "action_day": "2026-04-29",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H027-1-2",
+      "checkpoint": "H027-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-04-18",
+      "action_day": "2026-04-22",
+      "result": "alt_confirmed"
+    },
+    {
+      "id": "O-H028-1-2",
+      "checkpoint": "H028-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-04-25",
+      "action_day": "2026-04-29",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H028-1-4",
+      "checkpoint": "H028-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-05-09",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H029-1-2",
+      "checkpoint": "H029-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-05-02",
+      "action_day": "2026-05-06",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H029-1-4",
+      "checkpoint": "H029-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-05-16",
+      "action_day": "2026-05-20",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H030-1-2",
+      "checkpoint": "H030-1-2",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "none",
+      "assigned_on": "2026-05-09",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H031-1-2",
+      "checkpoint": "H031-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-05-16",
+      "action_day": "2026-05-20",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H031-1-4",
+      "checkpoint": "H031-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-05-30",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H032-1-4",
+      "checkpoint": "H032-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-06-06",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H032-2-4",
+      "checkpoint": "H032-2-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-08-08",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H033-1-2",
+      "checkpoint": "H033-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-05-30",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H033-1-4",
+      "checkpoint": "H033-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-06-13",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H034-1-2",
+      "checkpoint": "H034-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-06-06",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H035-1-4",
+      "checkpoint": "H035-1-4",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "none",
+      "assigned_on": "2026-06-27",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H036-1-2",
+      "checkpoint": "H036-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-02-14",
+      "action_day": "2026-02-18",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H036-1-4",
+      "checkpoint": "H036-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-02-28",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H037-1-2",
+      "checkpoint": "H037-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-02-21",
+      "action_day": "2026-02-25",
+      "result": "booked_new"
+    },
+    {
+      "id": "O-H038-1-4",
+      "checkpoint": "H038-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-03-14",
+      "action_day": "2026-03-18",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H039-1-2",
+      "checkpoint": "H039-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-03-07",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H039-1-4",
+      "checkpoint": "H039-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-03-21",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H040-1-2",
+      "checkpoint": "H040-1-2",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "arrange",
+      "assigned_on": "2026-03-14",
+      "action_day": "2026-03-18",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H040-2-2",
+      "checkpoint": "H040-2-2",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "none",
+      "assigned_on": "2026-05-16",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H041-1-2",
+      "checkpoint": "H041-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-03-21",
+      "action_day": "2026-03-25",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H041-1-4",
+      "checkpoint": "H041-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-04-04",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H042-1-4",
+      "checkpoint": "H042-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-04-11",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H043-1-2",
+      "checkpoint": "H043-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-04-04",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H043-1-4",
+      "checkpoint": "H043-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-04-18",
+      "action_day": "2026-04-22",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H044-1-2",
+      "checkpoint": "H044-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-04-11",
+      "action_day": "2026-04-15",
+      "result": "alt_confirmed"
+    },
+    {
+      "id": "O-H044-1-4",
+      "checkpoint": "H044-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-04-25",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H045-1-4",
+      "checkpoint": "H045-1-4",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "arrange",
+      "assigned_on": "2026-05-02",
+      "action_day": "2026-05-06",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H046-1-2",
+      "checkpoint": "H046-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-04-25",
+      "action_day": "2026-04-29",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H046-1-4",
+      "checkpoint": "H046-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-05-09",
+      "action_day": "2026-05-13",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H047-1-2",
+      "checkpoint": "H047-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-05-02",
+      "action_day": "2026-05-06",
+      "result": "booked_new"
+    },
+    {
+      "id": "O-H048-1-4",
+      "checkpoint": "H048-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-05-23",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H048-2-4",
+      "checkpoint": "H048-2-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-07-25",
+      "action_day": "2026-07-29",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H049-1-2",
+      "checkpoint": "H049-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-05-16",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H049-1-4",
+      "checkpoint": "H049-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-05-30",
+      "action_day": "2026-06-03",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H050-1-2",
+      "checkpoint": "H050-1-2",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "none",
+      "assigned_on": "2026-05-23",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H051-1-2",
+      "checkpoint": "H051-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-05-30",
+      "action_day": "2026-06-03",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H051-1-4",
+      "checkpoint": "H051-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-06-13",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H052-1-2",
+      "checkpoint": "H052-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-06-06",
+      "action_day": "2026-06-10",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H052-1-4",
+      "checkpoint": "H052-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-06-20",
+      "action_day": "2026-06-24",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H053-1-2",
+      "checkpoint": "H053-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-06-13",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H054-1-2",
+      "checkpoint": "H054-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-02-14",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H054-1-4",
+      "checkpoint": "H054-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-02-28",
+      "action_day": "2026-03-04",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H055-1-4",
+      "checkpoint": "H055-1-4",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "document",
+      "assigned_on": "2026-03-07",
+      "action_day": "2026-03-11",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H056-1-2",
+      "checkpoint": "H056-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-02-28",
+      "action_day": "2026-03-04",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H056-1-4",
+      "checkpoint": "H056-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-03-14",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H056-2-2",
+      "checkpoint": "H056-2-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-05-02",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H056-2-4",
+      "checkpoint": "H056-2-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-05-16",
+      "action_day": "2026-05-20",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H057-1-2",
+      "checkpoint": "H057-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-03-07",
+      "action_day": "2026-03-11",
+      "result": "booked_new"
+    },
+    {
+      "id": "O-H058-1-4",
+      "checkpoint": "H058-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-03-28",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H059-1-2",
+      "checkpoint": "H059-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-03-21",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H059-1-4",
+      "checkpoint": "H059-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-04-04",
+      "action_day": "2026-04-08",
+      "result": "alt_confirmed"
+    },
+    {
+      "id": "O-H060-1-2",
+      "checkpoint": "H060-1-2",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "arrange",
+      "assigned_on": "2026-03-28",
+      "action_day": "2026-04-01",
+      "result": "booked_new"
+    },
+    {
+      "id": "O-H061-1-4",
+      "checkpoint": "H061-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-04-18",
+      "action_day": "2026-04-22",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H062-1-2",
+      "checkpoint": "H062-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-04-11",
+      "action_day": "2026-04-15",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H062-1-4",
+      "checkpoint": "H062-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-04-25",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H063-1-2",
+      "checkpoint": "H063-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-04-18",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H064-1-2",
+      "checkpoint": "H064-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-04-25",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H064-1-4",
+      "checkpoint": "H064-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-05-09",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H064-2-2",
+      "checkpoint": "H064-2-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-06-27",
+      "action_day": "2026-07-01",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H064-2-4",
+      "checkpoint": "H064-2-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-07-11",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H065-1-4",
+      "checkpoint": "H065-1-4",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "document",
+      "assigned_on": "2026-05-16",
+      "action_day": "2026-05-20",
+      "result": "alt_confirmed"
+    },
+    {
+      "id": "O-H066-1-2",
+      "checkpoint": "H066-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-05-09",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H066-1-4",
+      "checkpoint": "H066-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-05-23",
+      "action_day": "2026-05-27",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H067-1-2",
+      "checkpoint": "H067-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-05-16",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H067-1-4",
+      "checkpoint": "H067-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-05-30",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H068-1-4",
+      "checkpoint": "H068-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-06-06",
+      "action_day": "2026-06-10",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H069-1-2",
+      "checkpoint": "H069-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-05-30",
+      "action_day": "2026-06-03",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H069-1-4",
+      "checkpoint": "H069-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-06-13",
+      "action_day": "2026-06-17",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H070-1-2",
+      "checkpoint": "H070-1-2",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "none",
+      "assigned_on": "2026-06-06",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H071-1-4",
+      "checkpoint": "H071-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-06-27",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H072-1-2",
+      "checkpoint": "H072-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-02-14",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H072-1-4",
+      "checkpoint": "H072-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-02-28",
+      "action_day": "2026-03-04",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H072-2-2",
+      "checkpoint": "H072-2-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-04-18",
+      "action_day": "2026-04-22",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H072-2-4",
+      "checkpoint": "H072-2-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-05-02",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H073-1-2",
+      "checkpoint": "H073-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-02-21",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H074-1-2",
+      "checkpoint": "H074-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-02-28",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H074-1-4",
+      "checkpoint": "H074-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-03-14",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H075-1-2",
+      "checkpoint": "H075-1-2",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "document",
+      "assigned_on": "2026-03-07",
+      "action_day": "2026-03-11",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H075-1-4",
+      "checkpoint": "H075-1-4",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "arrange",
+      "assigned_on": "2026-03-21",
+      "action_day": "2026-03-25",
+      "result": "booked_new"
+    },
+    {
+      "id": "O-H076-1-2",
+      "checkpoint": "H076-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-03-14",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H077-1-2",
+      "checkpoint": "H077-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-03-21",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H077-1-4",
+      "checkpoint": "H077-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-04-04",
+      "action_day": "2026-04-08",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H078-1-4",
+      "checkpoint": "H078-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-04-11",
+      "action_day": "2026-04-15",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H079-1-2",
+      "checkpoint": "H079-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-04-04",
+      "action_day": "2026-04-08",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H079-1-4",
+      "checkpoint": "H079-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-04-18",
+      "action_day": "2026-04-22",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H080-1-2",
+      "checkpoint": "H080-1-2",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "none",
+      "assigned_on": "2026-04-11",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H080-2-2",
+      "checkpoint": "H080-2-2",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "document",
+      "assigned_on": "2026-06-13",
+      "action_day": "2026-06-17",
+      "result": "alt_confirmed"
+    },
+    {
+      "id": "O-H080-2-4",
+      "checkpoint": "H080-2-4",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "none",
+      "assigned_on": "2026-06-27",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H081-1-4",
+      "checkpoint": "H081-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-05-02",
+      "action_day": "2026-05-06",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H082-1-2",
+      "checkpoint": "H082-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-04-25",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H082-1-4",
+      "checkpoint": "H082-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-05-09",
+      "action_day": "2026-05-13",
+      "result": "alt_confirmed"
+    },
+    {
+      "id": "O-H083-1-2",
+      "checkpoint": "H083-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-05-02",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H084-1-4",
+      "checkpoint": "H084-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-05-23",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H085-1-2",
+      "checkpoint": "H085-1-2",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "none",
+      "assigned_on": "2026-05-16",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H085-1-4",
+      "checkpoint": "H085-1-4",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "document",
+      "assigned_on": "2026-05-30",
+      "action_day": "2026-06-03",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H086-1-2",
+      "checkpoint": "H086-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-05-23",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H087-1-2",
+      "checkpoint": "H087-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-05-30",
+      "action_day": "2026-06-03",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H087-1-4",
+      "checkpoint": "H087-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-06-13",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H088-1-4",
+      "checkpoint": "H088-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-06-20",
+      "action_day": "2026-06-24",
+      "result": "alt_confirmed"
+    },
+    {
+      "id": "O-H088-2-2",
+      "checkpoint": "H088-2-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-08-08",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H088-2-4",
+      "checkpoint": "H088-2-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-08-22",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H089-1-2",
+      "checkpoint": "H089-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-06-13",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H089-1-4",
+      "checkpoint": "H089-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-06-27",
+      "action_day": "2026-07-01",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H090-1-2",
+      "checkpoint": "H090-1-2",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "none",
+      "assigned_on": "2026-02-14",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H090-1-4",
+      "checkpoint": "H090-1-4",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "arrange",
+      "assigned_on": "2026-02-28",
+      "action_day": "2026-03-04",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H091-1-4",
+      "checkpoint": "H091-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-03-07",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H092-1-2",
+      "checkpoint": "H092-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-02-28",
+      "action_day": "2026-03-04",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H092-1-4",
+      "checkpoint": "H092-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-03-14",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H093-1-2",
+      "checkpoint": "H093-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-03-07",
+      "action_day": "2026-03-11",
+      "result": "booked_new"
+    },
+    {
+      "id": "O-H094-1-4",
+      "checkpoint": "H094-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-03-28",
+      "action_day": "2026-04-01",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H095-1-2",
+      "checkpoint": "H095-1-2",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "none",
+      "assigned_on": "2026-03-21",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H095-1-4",
+      "checkpoint": "H095-1-4",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "document",
+      "assigned_on": "2026-04-04",
+      "action_day": "2026-04-08",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H096-1-2",
+      "checkpoint": "H096-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-03-28",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H096-2-2",
+      "checkpoint": "H096-2-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-05-30",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H097-1-2",
+      "checkpoint": "H097-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-04-04",
+      "action_day": "2026-04-08",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H097-1-4",
+      "checkpoint": "H097-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-04-18",
+      "action_day": "2026-04-22",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H098-1-2",
+      "checkpoint": "H098-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-04-11",
+      "action_day": "2026-04-15",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H098-1-4",
+      "checkpoint": "H098-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-04-25",
+      "action_day": "2026-04-29",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H099-1-2",
+      "checkpoint": "H099-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-04-18",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H100-1-2",
+      "checkpoint": "H100-1-2",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "arrange",
+      "assigned_on": "2026-04-25",
+      "action_day": "2026-04-29",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H100-1-4",
+      "checkpoint": "H100-1-4",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "document",
+      "assigned_on": "2026-05-09",
+      "action_day": "2026-05-13",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H101-1-4",
+      "checkpoint": "H101-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-05-16",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H102-1-2",
+      "checkpoint": "H102-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-05-09",
+      "action_day": "2026-05-13",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H102-1-4",
+      "checkpoint": "H102-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-05-23",
+      "action_day": "2026-05-27",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H103-1-2",
+      "checkpoint": "H103-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-05-16",
+      "action_day": "2026-05-20",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H104-1-4",
+      "checkpoint": "H104-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-06-06",
+      "action_day": "2026-06-10",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H104-2-4",
+      "checkpoint": "H104-2-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-08-08",
+      "action_day": "2026-08-12",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H105-1-2",
+      "checkpoint": "H105-1-2",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "none",
+      "assigned_on": "2026-05-30",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H105-1-4",
+      "checkpoint": "H105-1-4",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "none",
+      "assigned_on": "2026-06-13",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H106-1-2",
+      "checkpoint": "H106-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-06-06",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H107-1-4",
+      "checkpoint": "H107-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-06-27",
+      "action_day": "2026-07-01",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H108-1-2",
+      "checkpoint": "H108-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "none",
+      "assigned_on": "2026-02-14",
+      "action_day": "",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H108-1-4",
+      "checkpoint": "H108-1-4",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "document",
+      "assigned_on": "2026-02-28",
+      "action_day": "2026-03-04",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H109-1-2",
+      "checkpoint": "H109-1-2",
+      "design": "registered_draw",
+      "probabilities": "0.25,0.25,0.50",
+      "arm": "arrange",
+      "assigned_on": "2026-02-21",
+      "action_day": "2026-02-25",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H110-1-2",
+      "checkpoint": "H110-1-2",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "arrange",
+      "assigned_on": "2026-02-28",
+      "action_day": "2026-03-04",
+      "result": "no_change"
+    },
+    {
+      "id": "O-H110-1-4",
+      "checkpoint": "H110-1-4",
+      "design": "discretionary",
+      "probabilities": "",
+      "arm": "arrange",
+      "assigned_on": "2026-03-14",
+      "action_day": "2026-03-18",
+      "result": "no_change"
+    }
+  ]
+}

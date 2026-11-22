@@ -1,0 +1,6656 @@
+{
+  "fields": [
+    "id",
+    "episode",
+    "due",
+    "receipt_state",
+    "received",
+    "original_result",
+    "context"
+  ],
+  "key": "id",
+  "rows": [
+    {
+      "id": "H001-1-0",
+      "episode": "H001-1",
+      "due": "2026-02-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-11",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H001-1-1",
+      "episode": "H001-1",
+      "due": "2026-02-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-17",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H001-1-2",
+      "episode": "H001-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_no",
+      "received": "2026-03-01",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H001-1-3",
+      "episode": "H001-1",
+      "due": "2026-03-02",
+      "receipt_state": "unresolved",
+      "received": "2026-03-07",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H001-1-4",
+      "episode": "H001-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-14",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H001-1-5",
+      "episode": "H001-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-20",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H002-1-0",
+      "episode": "H002-1",
+      "due": "2026-02-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-19",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H002-1-1",
+      "episode": "H002-1",
+      "due": "2026-02-23",
+      "receipt_state": "unresolved",
+      "received": "2026-02-25",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H002-1-2",
+      "episode": "H002-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-04",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H002-1-3",
+      "episode": "H002-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-10",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H002-1-4",
+      "episode": "H002-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-22",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H002-1-5",
+      "episode": "H002-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_no",
+      "received": "2026-03-28",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H003-1-0",
+      "episode": "H003-1",
+      "due": "2026-02-23",
+      "receipt_state": "unresolved",
+      "received": "2026-02-27",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H003-1-1",
+      "episode": "H003-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-06",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H003-1-2",
+      "episode": "H003-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H003-1-3",
+      "episode": "H003-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-18",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H003-1-4",
+      "episode": "H003-1",
+      "due": "2026-03-23",
+      "receipt_state": "unresolved",
+      "received": "2026-03-24",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H003-1-5",
+      "episode": "H003-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-31",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H004-1-0",
+      "episode": "H004-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-08",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H004-1-1",
+      "episode": "H004-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-14",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H004-1-2",
+      "episode": "H004-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_no",
+      "received": "2026-03-20",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H004-1-3",
+      "episode": "H004-1",
+      "due": "2026-03-23",
+      "receipt_state": "unresolved",
+      "received": "2026-03-26",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H004-1-4",
+      "episode": "H004-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-02",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H004-1-5",
+      "episode": "H004-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-08",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H005-1-0",
+      "episode": "H005-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-10",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H005-1-1",
+      "episode": "H005-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_no",
+      "received": "2026-03-22",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H005-1-2",
+      "episode": "H005-1",
+      "due": "2026-03-23",
+      "receipt_state": "unresolved",
+      "received": "2026-03-28",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H005-1-3",
+      "episode": "H005-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-04",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H005-1-4",
+      "episode": "H005-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-10",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H005-1-5",
+      "episode": "H005-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-16",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H006-1-0",
+      "episode": "H006-1",
+      "due": "2026-03-16",
+      "receipt_state": "unresolved",
+      "received": "2026-03-18",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H006-1-1",
+      "episode": "H006-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-25",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H006-1-2",
+      "episode": "H006-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-31",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H006-1-3",
+      "episode": "H006-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H006-1-4",
+      "episode": "H006-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_no",
+      "received": "2026-04-18",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H006-1-5",
+      "episode": "H006-1",
+      "due": "2026-04-20",
+      "receipt_state": "unresolved",
+      "received": "2026-04-24",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H007-1-0",
+      "episode": "H007-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-27",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H007-1-1",
+      "episode": "H007-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-02",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H007-1-2",
+      "episode": "H007-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-08",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H007-1-3",
+      "episode": "H007-1",
+      "due": "2026-04-13",
+      "receipt_state": "unresolved",
+      "received": "2026-04-14",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H007-1-4",
+      "episode": "H007-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-21",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H007-1-5",
+      "episode": "H007-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-03",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H008-1-0",
+      "episode": "H008-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-04",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H008-1-1",
+      "episode": "H008-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_no",
+      "received": "2026-04-10",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H008-1-2",
+      "episode": "H008-1",
+      "due": "2026-04-13",
+      "receipt_state": "unresolved",
+      "received": "2026-04-16",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H008-1-3",
+      "episode": "H008-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-23",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H008-1-4",
+      "episode": "H008-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-29",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H008-1-5",
+      "episode": "H008-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H008-2-0",
+      "episode": "H008-2",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-07",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H008-2-1",
+      "episode": "H008-2",
+      "due": "2026-06-08",
+      "receipt_state": "verified_no",
+      "received": "2026-06-13",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H008-2-2",
+      "episode": "H008-2",
+      "due": "2026-06-15",
+      "receipt_state": "unresolved",
+      "received": "2026-06-19",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H008-2-3",
+      "episode": "H008-2",
+      "due": "2026-06-22",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H008-2-4",
+      "episode": "H008-2",
+      "due": "2026-06-29",
+      "receipt_state": "verified_yes",
+      "received": "2026-07-02",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H008-2-5",
+      "episode": "H008-2",
+      "due": "2026-07-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-07-08",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H009-1-0",
+      "episode": "H009-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_no",
+      "received": "2026-04-12",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H009-1-1",
+      "episode": "H009-1",
+      "due": "2026-04-13",
+      "receipt_state": "unresolved",
+      "received": "2026-04-18",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H009-1-2",
+      "episode": "H009-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-25",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H009-1-3",
+      "episode": "H009-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-01",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H009-1-4",
+      "episode": "H009-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-07",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H009-1-5",
+      "episode": "H009-1",
+      "due": "2026-05-11",
+      "receipt_state": "unresolved",
+      "received": "2026-05-13",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H010-1-0",
+      "episode": "H010-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-15",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H010-1-1",
+      "episode": "H010-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-21",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H010-1-2",
+      "episode": "H010-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-03",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H010-1-3",
+      "episode": "H010-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_no",
+      "received": "2026-05-09",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H010-1-4",
+      "episode": "H010-1",
+      "due": "2026-05-11",
+      "receipt_state": "unresolved",
+      "received": "2026-05-15",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H010-1-5",
+      "episode": "H010-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-22",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H011-1-0",
+      "episode": "H011-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-23",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H011-1-1",
+      "episode": "H011-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-29",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H011-1-2",
+      "episode": "H011-1",
+      "due": "2026-05-04",
+      "receipt_state": "unresolved",
+      "received": "2026-05-05",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H011-1-3",
+      "episode": "H011-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H011-1-4",
+      "episode": "H011-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-24",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H011-1-5",
+      "episode": "H011-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-30",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H012-1-0",
+      "episode": "H012-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_no",
+      "received": "2026-05-01",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H012-1-1",
+      "episode": "H012-1",
+      "due": "2026-05-04",
+      "receipt_state": "unresolved",
+      "received": "2026-05-07",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H012-1-2",
+      "episode": "H012-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-14",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H012-1-3",
+      "episode": "H012-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-20",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H012-1-4",
+      "episode": "H012-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H012-1-5",
+      "episode": "H012-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_no",
+      "received": "2026-06-07",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H013-1-0",
+      "episode": "H013-1",
+      "due": "2026-05-04",
+      "receipt_state": "unresolved",
+      "received": "2026-05-09",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H013-1-1",
+      "episode": "H013-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-16",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H013-1-2",
+      "episode": "H013-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-22",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H013-1-3",
+      "episode": "H013-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-28",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H013-1-4",
+      "episode": "H013-1",
+      "due": "2026-06-01",
+      "receipt_state": "unresolved",
+      "received": "2026-06-03",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H013-1-5",
+      "episode": "H013-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-10",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H014-1-0",
+      "episode": "H014-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H014-1-1",
+      "episode": "H014-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-24",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H014-1-2",
+      "episode": "H014-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_no",
+      "received": "2026-05-30",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H014-1-3",
+      "episode": "H014-1",
+      "due": "2026-06-01",
+      "receipt_state": "unresolved",
+      "received": "2026-06-05",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H014-1-4",
+      "episode": "H014-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H014-1-5",
+      "episode": "H014-1",
+      "due": "2026-06-15",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-18",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H015-1-0",
+      "episode": "H015-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-20",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H015-1-1",
+      "episode": "H015-1",
+      "due": "2026-05-25",
+      "receipt_state": "unresolved",
+      "received": "2026-05-26",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H015-1-2",
+      "episode": "H015-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-02",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H015-1-3",
+      "episode": "H015-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-14",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H015-1-4",
+      "episode": "H015-1",
+      "due": "2026-06-15",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-20",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H015-1-5",
+      "episode": "H015-1",
+      "due": "2026-06-22",
+      "receipt_state": "verified_no",
+      "received": "2026-06-26",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H016-1-0",
+      "episode": "H016-1",
+      "due": "2026-05-25",
+      "receipt_state": "unresolved",
+      "received": "2026-05-28",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H016-1-1",
+      "episode": "H016-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-04",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H016-1-2",
+      "episode": "H016-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-10",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H016-1-3",
+      "episode": "H016-1",
+      "due": "2026-06-15",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-16",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H016-1-4",
+      "episode": "H016-1",
+      "due": "2026-06-22",
+      "receipt_state": "verified_no",
+      "received": "2026-06-28",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H016-1-5",
+      "episode": "H016-1",
+      "due": "2026-06-29",
+      "receipt_state": "unresolved",
+      "received": "2026-07-04",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H016-2-0",
+      "episode": "H016-2",
+      "due": "2026-07-27",
+      "receipt_state": "unresolved",
+      "received": "2026-07-31",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H016-2-1",
+      "episode": "H016-2",
+      "due": "2026-08-03",
+      "receipt_state": "verified_yes",
+      "received": "2026-08-07",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H016-2-2",
+      "episode": "H016-2",
+      "due": "2026-08-10",
+      "receipt_state": "verified_yes",
+      "received": "2026-08-13",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H016-2-3",
+      "episode": "H016-2",
+      "due": "2026-08-17",
+      "receipt_state": "verified_yes",
+      "received": "2026-08-19",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H016-2-4",
+      "episode": "H016-2",
+      "due": "2026-08-24",
+      "receipt_state": "unresolved",
+      "received": "2026-08-25",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H016-2-5",
+      "episode": "H016-2",
+      "due": "2026-08-31",
+      "receipt_state": "verified_yes",
+      "received": "2026-09-01",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H017-1-0",
+      "episode": "H017-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-06",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H017-1-1",
+      "episode": "H017-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H017-1-2",
+      "episode": "H017-1",
+      "due": "2026-06-15",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-18",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H017-1-3",
+      "episode": "H017-1",
+      "due": "2026-06-22",
+      "receipt_state": "unresolved",
+      "received": "2026-06-24",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H017-1-4",
+      "episode": "H017-1",
+      "due": "2026-06-29",
+      "receipt_state": "verified_yes",
+      "received": "2026-07-01",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H017-1-5",
+      "episode": "H017-1",
+      "due": "2026-07-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-07-07",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H018-1-0",
+      "episode": "H018-1",
+      "due": "2026-02-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-08",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H018-1-1",
+      "episode": "H018-1",
+      "due": "2026-02-09",
+      "receipt_state": "verified_no",
+      "received": "2026-02-14",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H018-1-2",
+      "episode": "H018-1",
+      "due": "2026-02-16",
+      "receipt_state": "unresolved",
+      "received": "2026-02-20",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H018-1-3",
+      "episode": "H018-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-27",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H018-1-4",
+      "episode": "H018-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H018-1-5",
+      "episode": "H018-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-11",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H019-1-0",
+      "episode": "H019-1",
+      "due": "2026-02-09",
+      "receipt_state": "unresolved",
+      "received": "2026-02-10",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H019-1-1",
+      "episode": "H019-1",
+      "due": "2026-02-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-17",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H019-1-2",
+      "episode": "H019-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-01",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H019-1-3",
+      "episode": "H019-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-07",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H019-1-4",
+      "episode": "H019-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_no",
+      "received": "2026-03-13",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H019-1-5",
+      "episode": "H019-1",
+      "due": "2026-03-16",
+      "receipt_state": "unresolved",
+      "received": "2026-03-19",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H020-1-0",
+      "episode": "H020-1",
+      "due": "2026-02-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-19",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H020-1-1",
+      "episode": "H020-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-25",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H020-1-2",
+      "episode": "H020-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-03",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H020-1-3",
+      "episode": "H020-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_no",
+      "received": "2026-03-15",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H020-1-4",
+      "episode": "H020-1",
+      "due": "2026-03-16",
+      "receipt_state": "unresolved",
+      "received": "2026-03-21",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H020-1-5",
+      "episode": "H020-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-28",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H021-1-0",
+      "episode": "H021-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-27",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H021-1-1",
+      "episode": "H021-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H021-1-2",
+      "episode": "H021-1",
+      "due": "2026-03-09",
+      "receipt_state": "unresolved",
+      "received": "2026-03-11",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H021-1-3",
+      "episode": "H021-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-18",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H021-1-4",
+      "episode": "H021-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-24",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H021-1-5",
+      "episode": "H021-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H022-1-0",
+      "episode": "H022-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_no",
+      "received": "2026-03-07",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H022-1-1",
+      "episode": "H022-1",
+      "due": "2026-03-09",
+      "receipt_state": "unresolved",
+      "received": "2026-03-13",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H022-1-2",
+      "episode": "H022-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-20",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H022-1-3",
+      "episode": "H022-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H022-1-4",
+      "episode": "H022-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-01",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H022-1-5",
+      "episode": "H022-1",
+      "due": "2026-04-06",
+      "receipt_state": "unresolved",
+      "received": "2026-04-07",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H023-1-0",
+      "episode": "H023-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-10",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H023-1-1",
+      "episode": "H023-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-22",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H023-1-2",
+      "episode": "H023-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-28",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H023-1-3",
+      "episode": "H023-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_no",
+      "received": "2026-04-03",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H023-1-4",
+      "episode": "H023-1",
+      "due": "2026-04-06",
+      "receipt_state": "unresolved",
+      "received": "2026-04-09",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H023-1-5",
+      "episode": "H023-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-16",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H024-1-0",
+      "episode": "H024-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-18",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H024-1-1",
+      "episode": "H024-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-24",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H024-1-2",
+      "episode": "H024-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_no",
+      "received": "2026-04-05",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H024-1-3",
+      "episode": "H024-1",
+      "due": "2026-04-06",
+      "receipt_state": "unresolved",
+      "received": "2026-04-11",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H024-1-4",
+      "episode": "H024-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-18",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H024-1-5",
+      "episode": "H024-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-24",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H024-2-0",
+      "episode": "H024-2",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-21",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H024-2-1",
+      "episode": "H024-2",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-27",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H024-2-2",
+      "episode": "H024-2",
+      "due": "2026-06-01",
+      "receipt_state": "unresolved",
+      "received": "2026-06-02",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H024-2-3",
+      "episode": "H024-2",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-09",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H024-2-4",
+      "episode": "H024-2",
+      "due": "2026-06-15",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-21",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H024-2-5",
+      "episode": "H024-2",
+      "due": "2026-06-22",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-27",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H025-1-0",
+      "episode": "H025-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H025-1-1",
+      "episode": "H025-1",
+      "due": "2026-03-30",
+      "receipt_state": "unresolved",
+      "received": "2026-04-01",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H025-1-2",
+      "episode": "H025-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-08",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H025-1-3",
+      "episode": "H025-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-14",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H025-1-4",
+      "episode": "H025-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H025-1-5",
+      "episode": "H025-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_no",
+      "received": "2026-05-02",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H026-1-0",
+      "episode": "H026-1",
+      "due": "2026-03-30",
+      "receipt_state": "unresolved",
+      "received": "2026-04-03",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H026-1-1",
+      "episode": "H026-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-10",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H026-1-2",
+      "episode": "H026-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-16",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H026-1-3",
+      "episode": "H026-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-22",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H026-1-4",
+      "episode": "H026-1",
+      "due": "2026-04-27",
+      "receipt_state": "unresolved",
+      "received": "2026-04-28",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H026-1-5",
+      "episode": "H026-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H027-1-0",
+      "episode": "H027-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H027-1-1",
+      "episode": "H027-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-18",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H027-1-2",
+      "episode": "H027-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_no",
+      "received": "2026-04-24",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H027-1-3",
+      "episode": "H027-1",
+      "due": "2026-04-27",
+      "receipt_state": "unresolved",
+      "received": "2026-04-30",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H027-1-4",
+      "episode": "H027-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-07",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H027-1-5",
+      "episode": "H027-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-13",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H028-1-0",
+      "episode": "H028-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-14",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H028-1-1",
+      "episode": "H028-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_no",
+      "received": "2026-04-26",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H028-1-2",
+      "episode": "H028-1",
+      "due": "2026-04-27",
+      "receipt_state": "unresolved",
+      "received": "2026-05-02",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H028-1-3",
+      "episode": "H028-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-09",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H028-1-4",
+      "episode": "H028-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-15",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H028-1-5",
+      "episode": "H028-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-21",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H029-1-0",
+      "episode": "H029-1",
+      "due": "2026-04-20",
+      "receipt_state": "unresolved",
+      "received": "2026-04-22",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H029-1-1",
+      "episode": "H029-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-29",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H029-1-2",
+      "episode": "H029-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H029-1-3",
+      "episode": "H029-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-17",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H029-1-4",
+      "episode": "H029-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_no",
+      "received": "2026-05-23",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H029-1-5",
+      "episode": "H029-1",
+      "due": "2026-05-25",
+      "receipt_state": "unresolved",
+      "received": "2026-05-29",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H030-1-0",
+      "episode": "H030-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-01",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H030-1-1",
+      "episode": "H030-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-07",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H030-1-2",
+      "episode": "H030-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-13",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H030-1-3",
+      "episode": "H030-1",
+      "due": "2026-05-18",
+      "receipt_state": "unresolved",
+      "received": "2026-05-19",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H030-1-4",
+      "episode": "H030-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H030-1-5",
+      "episode": "H030-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-07",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H031-1-0",
+      "episode": "H031-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-09",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H031-1-1",
+      "episode": "H031-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_no",
+      "received": "2026-05-15",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H031-1-2",
+      "episode": "H031-1",
+      "due": "2026-05-18",
+      "receipt_state": "unresolved",
+      "received": "2026-05-21",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H031-1-3",
+      "episode": "H031-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-28",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H031-1-4",
+      "episode": "H031-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-03",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H031-1-5",
+      "episode": "H031-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-09",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H032-1-0",
+      "episode": "H032-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_no",
+      "received": "2026-05-17",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H032-1-1",
+      "episode": "H032-1",
+      "due": "2026-05-18",
+      "receipt_state": "unresolved",
+      "received": "2026-05-23",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H032-1-2",
+      "episode": "H032-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-30",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H032-1-3",
+      "episode": "H032-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H032-1-4",
+      "episode": "H032-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-11",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H032-1-5",
+      "episode": "H032-1",
+      "due": "2026-06-15",
+      "receipt_state": "unresolved",
+      "received": "2026-06-17",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H032-2-0",
+      "episode": "H032-2",
+      "due": "2026-07-13",
+      "receipt_state": "unresolved",
+      "received": "2026-07-14",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H032-2-1",
+      "episode": "H032-2",
+      "due": "2026-07-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-07-21",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H032-2-2",
+      "episode": "H032-2",
+      "due": "2026-07-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-08-02",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H032-2-3",
+      "episode": "H032-2",
+      "due": "2026-08-03",
+      "receipt_state": "verified_yes",
+      "received": "2026-08-08",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H032-2-4",
+      "episode": "H032-2",
+      "due": "2026-08-10",
+      "receipt_state": "verified_no",
+      "received": "2026-08-14",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H032-2-5",
+      "episode": "H032-2",
+      "due": "2026-08-17",
+      "receipt_state": "unresolved",
+      "received": "2026-08-20",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H033-1-0",
+      "episode": "H033-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-20",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H033-1-1",
+      "episode": "H033-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H033-1-2",
+      "episode": "H033-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-07",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H033-1-3",
+      "episode": "H033-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_no",
+      "received": "2026-06-13",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H033-1-4",
+      "episode": "H033-1",
+      "due": "2026-06-15",
+      "receipt_state": "unresolved",
+      "received": "2026-06-19",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H033-1-5",
+      "episode": "H033-1",
+      "due": "2026-06-22",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H034-1-0",
+      "episode": "H034-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-28",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H034-1-1",
+      "episode": "H034-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-03",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H034-1-2",
+      "episode": "H034-1",
+      "due": "2026-06-08",
+      "receipt_state": "unresolved",
+      "received": "2026-06-09",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H034-1-3",
+      "episode": "H034-1",
+      "due": "2026-06-15",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-16",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H034-1-4",
+      "episode": "H034-1",
+      "due": "2026-06-22",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-28",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H034-1-5",
+      "episode": "H034-1",
+      "due": "2026-06-29",
+      "receipt_state": "verified_yes",
+      "received": "2026-07-04",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H035-1-0",
+      "episode": "H035-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_no",
+      "received": "2026-06-05",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H035-1-1",
+      "episode": "H035-1",
+      "due": "2026-06-08",
+      "receipt_state": "unresolved",
+      "received": "2026-06-11",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H035-1-2",
+      "episode": "H035-1",
+      "due": "2026-06-15",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-18",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H035-1-3",
+      "episode": "H035-1",
+      "due": "2026-06-22",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-24",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H035-1-4",
+      "episode": "H035-1",
+      "due": "2026-06-29",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-30",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H035-1-5",
+      "episode": "H035-1",
+      "due": "2026-07-06",
+      "receipt_state": "verified_no",
+      "received": "2026-07-12",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H036-1-0",
+      "episode": "H036-1",
+      "due": "2026-02-02",
+      "receipt_state": "unresolved",
+      "received": "2026-02-07",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H036-1-1",
+      "episode": "H036-1",
+      "due": "2026-02-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-14",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H036-1-2",
+      "episode": "H036-1",
+      "due": "2026-02-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-20",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H036-1-3",
+      "episode": "H036-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H036-1-4",
+      "episode": "H036-1",
+      "due": "2026-03-02",
+      "receipt_state": "unresolved",
+      "received": "2026-03-04",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H036-1-5",
+      "episode": "H036-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-11",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H037-1-0",
+      "episode": "H037-1",
+      "due": "2026-02-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-10",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H037-1-1",
+      "episode": "H037-1",
+      "due": "2026-02-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-22",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H037-1-2",
+      "episode": "H037-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_no",
+      "received": "2026-02-28",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H037-1-3",
+      "episode": "H037-1",
+      "due": "2026-03-02",
+      "receipt_state": "unresolved",
+      "received": "2026-03-06",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H037-1-4",
+      "episode": "H037-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-13",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H037-1-5",
+      "episode": "H037-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-19",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H038-1-0",
+      "episode": "H038-1",
+      "due": "2026-02-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-18",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H038-1-1",
+      "episode": "H038-1",
+      "due": "2026-02-23",
+      "receipt_state": "unresolved",
+      "received": "2026-02-24",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H038-1-2",
+      "episode": "H038-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-03",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H038-1-3",
+      "episode": "H038-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-15",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H038-1-4",
+      "episode": "H038-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-21",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H038-1-5",
+      "episode": "H038-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_no",
+      "received": "2026-03-27",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H039-1-0",
+      "episode": "H039-1",
+      "due": "2026-02-23",
+      "receipt_state": "unresolved",
+      "received": "2026-02-26",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H039-1-1",
+      "episode": "H039-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H039-1-2",
+      "episode": "H039-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-11",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H039-1-3",
+      "episode": "H039-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-17",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H039-1-4",
+      "episode": "H039-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_no",
+      "received": "2026-03-29",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H039-1-5",
+      "episode": "H039-1",
+      "due": "2026-03-30",
+      "receipt_state": "unresolved",
+      "received": "2026-04-04",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H040-1-0",
+      "episode": "H040-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-07",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H040-1-1",
+      "episode": "H040-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-13",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H040-1-2",
+      "episode": "H040-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-19",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H040-1-3",
+      "episode": "H040-1",
+      "due": "2026-03-23",
+      "receipt_state": "unresolved",
+      "received": "2026-03-25",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H040-1-4",
+      "episode": "H040-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-01",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H040-1-5",
+      "episode": "H040-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-07",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H040-2-0",
+      "episode": "H040-2",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-10",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H040-2-1",
+      "episode": "H040-2",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-16",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H040-2-2",
+      "episode": "H040-2",
+      "due": "2026-05-18",
+      "receipt_state": "verified_no",
+      "received": "2026-05-22",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H040-2-3",
+      "episode": "H040-2",
+      "due": "2026-05-25",
+      "receipt_state": "unresolved",
+      "received": "2026-05-28",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H040-2-4",
+      "episode": "H040-2",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-04",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H040-2-5",
+      "episode": "H040-2",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-10",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H041-1-0",
+      "episode": "H041-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-15",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H041-1-1",
+      "episode": "H041-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_no",
+      "received": "2026-03-21",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H041-1-2",
+      "episode": "H041-1",
+      "due": "2026-03-23",
+      "receipt_state": "unresolved",
+      "received": "2026-03-27",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H041-1-3",
+      "episode": "H041-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-03",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H041-1-4",
+      "episode": "H041-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-09",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H041-1-5",
+      "episode": "H041-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-15",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H042-1-0",
+      "episode": "H042-1",
+      "due": "2026-03-16",
+      "receipt_state": "unresolved",
+      "received": "2026-03-17",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H042-1-1",
+      "episode": "H042-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-24",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H042-1-2",
+      "episode": "H042-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H042-1-3",
+      "episode": "H042-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-11",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H042-1-4",
+      "episode": "H042-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_no",
+      "received": "2026-04-17",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H042-1-5",
+      "episode": "H042-1",
+      "due": "2026-04-20",
+      "receipt_state": "unresolved",
+      "received": "2026-04-23",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H043-1-0",
+      "episode": "H043-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H043-1-1",
+      "episode": "H043-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-01",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H043-1-2",
+      "episode": "H043-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-07",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H043-1-3",
+      "episode": "H043-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_no",
+      "received": "2026-04-19",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H043-1-4",
+      "episode": "H043-1",
+      "due": "2026-04-20",
+      "receipt_state": "unresolved",
+      "received": "2026-04-25",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H043-1-5",
+      "episode": "H043-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-02",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H044-1-0",
+      "episode": "H044-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-03",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H044-1-1",
+      "episode": "H044-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-09",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H044-1-2",
+      "episode": "H044-1",
+      "due": "2026-04-13",
+      "receipt_state": "unresolved",
+      "received": "2026-04-15",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H044-1-3",
+      "episode": "H044-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-22",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H044-1-4",
+      "episode": "H044-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-28",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H044-1-5",
+      "episode": "H044-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-10",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H045-1-0",
+      "episode": "H045-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_no",
+      "received": "2026-04-11",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H045-1-1",
+      "episode": "H045-1",
+      "due": "2026-04-13",
+      "receipt_state": "unresolved",
+      "received": "2026-04-17",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H045-1-2",
+      "episode": "H045-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-24",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H045-1-3",
+      "episode": "H045-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-30",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H045-1-4",
+      "episode": "H045-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-06",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H045-1-5",
+      "episode": "H045-1",
+      "due": "2026-05-11",
+      "receipt_state": "unresolved",
+      "received": "2026-05-12",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H046-1-0",
+      "episode": "H046-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-14",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H046-1-1",
+      "episode": "H046-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H046-1-2",
+      "episode": "H046-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-02",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H046-1-3",
+      "episode": "H046-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_no",
+      "received": "2026-05-08",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H046-1-4",
+      "episode": "H046-1",
+      "due": "2026-05-11",
+      "receipt_state": "unresolved",
+      "received": "2026-05-14",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H046-1-5",
+      "episode": "H046-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-21",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H047-1-0",
+      "episode": "H047-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-22",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H047-1-1",
+      "episode": "H047-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-28",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H047-1-2",
+      "episode": "H047-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_no",
+      "received": "2026-05-10",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H047-1-3",
+      "episode": "H047-1",
+      "due": "2026-05-11",
+      "receipt_state": "unresolved",
+      "received": "2026-05-16",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H047-1-4",
+      "episode": "H047-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-23",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H047-1-5",
+      "episode": "H047-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-29",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H048-1-0",
+      "episode": "H048-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-30",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H048-1-1",
+      "episode": "H048-1",
+      "due": "2026-05-04",
+      "receipt_state": "unresolved",
+      "received": "2026-05-06",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H048-1-2",
+      "episode": "H048-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-13",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H048-1-3",
+      "episode": "H048-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-19",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H048-1-4",
+      "episode": "H048-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-31",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H048-1-5",
+      "episode": "H048-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_no",
+      "received": "2026-06-06",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H048-2-0",
+      "episode": "H048-2",
+      "due": "2026-06-29",
+      "receipt_state": "verified_no",
+      "received": "2026-07-03",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H048-2-1",
+      "episode": "H048-2",
+      "due": "2026-07-06",
+      "receipt_state": "unresolved",
+      "received": "2026-07-09",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H048-2-2",
+      "episode": "H048-2",
+      "due": "2026-07-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-07-16",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H048-2-3",
+      "episode": "H048-2",
+      "due": "2026-07-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-07-22",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H048-2-4",
+      "episode": "H048-2",
+      "due": "2026-07-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-07-28",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H048-2-5",
+      "episode": "H048-2",
+      "due": "2026-08-03",
+      "receipt_state": "verified_no",
+      "received": "2026-08-09",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H049-1-0",
+      "episode": "H049-1",
+      "due": "2026-05-04",
+      "receipt_state": "unresolved",
+      "received": "2026-05-08",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H049-1-1",
+      "episode": "H049-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-15",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H049-1-2",
+      "episode": "H049-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-21",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H049-1-3",
+      "episode": "H049-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-27",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H049-1-4",
+      "episode": "H049-1",
+      "due": "2026-06-01",
+      "receipt_state": "unresolved",
+      "received": "2026-06-02",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H049-1-5",
+      "episode": "H049-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-09",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H050-1-0",
+      "episode": "H050-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-17",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H050-1-1",
+      "episode": "H050-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-23",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H050-1-2",
+      "episode": "H050-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_no",
+      "received": "2026-05-29",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H050-1-3",
+      "episode": "H050-1",
+      "due": "2026-06-01",
+      "receipt_state": "unresolved",
+      "received": "2026-06-04",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H050-1-4",
+      "episode": "H050-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-11",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H050-1-5",
+      "episode": "H050-1",
+      "due": "2026-06-15",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-17",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H051-1-0",
+      "episode": "H051-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-19",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H051-1-1",
+      "episode": "H051-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_no",
+      "received": "2026-05-31",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H051-1-2",
+      "episode": "H051-1",
+      "due": "2026-06-01",
+      "receipt_state": "unresolved",
+      "received": "2026-06-06",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H051-1-3",
+      "episode": "H051-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-13",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H051-1-4",
+      "episode": "H051-1",
+      "due": "2026-06-15",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-19",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H051-1-5",
+      "episode": "H051-1",
+      "due": "2026-06-22",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-25",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H052-1-0",
+      "episode": "H052-1",
+      "due": "2026-05-25",
+      "receipt_state": "unresolved",
+      "received": "2026-05-27",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H052-1-1",
+      "episode": "H052-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-03",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H052-1-2",
+      "episode": "H052-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-09",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H052-1-3",
+      "episode": "H052-1",
+      "due": "2026-06-15",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-21",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H052-1-4",
+      "episode": "H052-1",
+      "due": "2026-06-22",
+      "receipt_state": "verified_no",
+      "received": "2026-06-27",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H052-1-5",
+      "episode": "H052-1",
+      "due": "2026-06-29",
+      "receipt_state": "unresolved",
+      "received": "2026-07-03",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H053-1-0",
+      "episode": "H053-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H053-1-1",
+      "episode": "H053-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-11",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H053-1-2",
+      "episode": "H053-1",
+      "due": "2026-06-15",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-17",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H053-1-3",
+      "episode": "H053-1",
+      "due": "2026-06-22",
+      "receipt_state": "unresolved",
+      "received": "2026-06-23",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H053-1-4",
+      "episode": "H053-1",
+      "due": "2026-06-29",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-30",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H053-1-5",
+      "episode": "H053-1",
+      "due": "2026-07-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-07-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H054-1-0",
+      "episode": "H054-1",
+      "due": "2026-02-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-07",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H054-1-1",
+      "episode": "H054-1",
+      "due": "2026-02-09",
+      "receipt_state": "verified_no",
+      "received": "2026-02-13",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H054-1-2",
+      "episode": "H054-1",
+      "due": "2026-02-16",
+      "receipt_state": "unresolved",
+      "received": "2026-02-19",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H054-1-3",
+      "episode": "H054-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H054-1-4",
+      "episode": "H054-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-04",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H054-1-5",
+      "episode": "H054-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-10",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H055-1-0",
+      "episode": "H055-1",
+      "due": "2026-02-09",
+      "receipt_state": "verified_no",
+      "received": "2026-02-15",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H055-1-1",
+      "episode": "H055-1",
+      "due": "2026-02-16",
+      "receipt_state": "unresolved",
+      "received": "2026-02-21",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H055-1-2",
+      "episode": "H055-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-28",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H055-1-3",
+      "episode": "H055-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-06",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H055-1-4",
+      "episode": "H055-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H055-1-5",
+      "episode": "H055-1",
+      "due": "2026-03-16",
+      "receipt_state": "unresolved",
+      "received": "2026-03-18",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H056-1-0",
+      "episode": "H056-1",
+      "due": "2026-02-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-18",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H056-1-1",
+      "episode": "H056-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-24",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H056-1-2",
+      "episode": "H056-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-08",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H056-1-3",
+      "episode": "H056-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_no",
+      "received": "2026-03-14",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H056-1-4",
+      "episode": "H056-1",
+      "due": "2026-03-16",
+      "receipt_state": "unresolved",
+      "received": "2026-03-20",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H056-1-5",
+      "episode": "H056-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-27",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H056-2-0",
+      "episode": "H056-2",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-23",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H056-2-1",
+      "episode": "H056-2",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-29",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H056-2-2",
+      "episode": "H056-2",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H056-2-3",
+      "episode": "H056-2",
+      "due": "2026-05-11",
+      "receipt_state": "verified_no",
+      "received": "2026-05-17",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H056-2-4",
+      "episode": "H056-2",
+      "due": "2026-05-18",
+      "receipt_state": "unresolved",
+      "received": "2026-05-23",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H056-2-5",
+      "episode": "H056-2",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-30",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H057-1-0",
+      "episode": "H057-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H057-1-1",
+      "episode": "H057-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-04",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H057-1-2",
+      "episode": "H057-1",
+      "due": "2026-03-09",
+      "receipt_state": "unresolved",
+      "received": "2026-03-10",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H057-1-3",
+      "episode": "H057-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-17",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H057-1-4",
+      "episode": "H057-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-29",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H057-1-5",
+      "episode": "H057-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-04",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H058-1-0",
+      "episode": "H058-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_no",
+      "received": "2026-03-06",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H058-1-1",
+      "episode": "H058-1",
+      "due": "2026-03-09",
+      "receipt_state": "unresolved",
+      "received": "2026-03-12",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H058-1-2",
+      "episode": "H058-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-19",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H058-1-3",
+      "episode": "H058-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-25",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H058-1-4",
+      "episode": "H058-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-31",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H058-1-5",
+      "episode": "H058-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_no",
+      "received": "2026-04-12",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H059-1-0",
+      "episode": "H059-1",
+      "due": "2026-03-09",
+      "receipt_state": "unresolved",
+      "received": "2026-03-14",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H059-1-1",
+      "episode": "H059-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-21",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H059-1-2",
+      "episode": "H059-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-27",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H059-1-3",
+      "episode": "H059-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-02",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H059-1-4",
+      "episode": "H059-1",
+      "due": "2026-04-06",
+      "receipt_state": "unresolved",
+      "received": "2026-04-08",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H059-1-5",
+      "episode": "H059-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-15",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H060-1-0",
+      "episode": "H060-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-17",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H060-1-1",
+      "episode": "H060-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-29",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H060-1-2",
+      "episode": "H060-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_no",
+      "received": "2026-04-04",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H060-1-3",
+      "episode": "H060-1",
+      "due": "2026-04-06",
+      "receipt_state": "unresolved",
+      "received": "2026-04-10",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H060-1-4",
+      "episode": "H060-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-17",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H060-1-5",
+      "episode": "H060-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-23",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H061-1-0",
+      "episode": "H061-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-25",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H061-1-1",
+      "episode": "H061-1",
+      "due": "2026-03-30",
+      "receipt_state": "unresolved",
+      "received": "2026-03-31",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H061-1-2",
+      "episode": "H061-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-07",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H061-1-3",
+      "episode": "H061-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-19",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H061-1-4",
+      "episode": "H061-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-25",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H061-1-5",
+      "episode": "H061-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_no",
+      "received": "2026-05-01",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H062-1-0",
+      "episode": "H062-1",
+      "due": "2026-03-30",
+      "receipt_state": "unresolved",
+      "received": "2026-04-02",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H062-1-1",
+      "episode": "H062-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-09",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H062-1-2",
+      "episode": "H062-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-15",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H062-1-3",
+      "episode": "H062-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-21",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H062-1-4",
+      "episode": "H062-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_no",
+      "received": "2026-05-03",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H062-1-5",
+      "episode": "H062-1",
+      "due": "2026-05-04",
+      "receipt_state": "unresolved",
+      "received": "2026-05-09",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H063-1-0",
+      "episode": "H063-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-11",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H063-1-1",
+      "episode": "H063-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-17",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H063-1-2",
+      "episode": "H063-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-23",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H063-1-3",
+      "episode": "H063-1",
+      "due": "2026-04-27",
+      "receipt_state": "unresolved",
+      "received": "2026-04-29",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H063-1-4",
+      "episode": "H063-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-06",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H063-1-5",
+      "episode": "H063-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H064-1-0",
+      "episode": "H064-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-19",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H064-1-1",
+      "episode": "H064-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_no",
+      "received": "2026-04-25",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H064-1-2",
+      "episode": "H064-1",
+      "due": "2026-04-27",
+      "receipt_state": "unresolved",
+      "received": "2026-05-01",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H064-1-3",
+      "episode": "H064-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-08",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H064-1-4",
+      "episode": "H064-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-14",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H064-1-5",
+      "episode": "H064-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-20",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H064-2-0",
+      "episode": "H064-2",
+      "due": "2026-06-15",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-16",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H064-2-1",
+      "episode": "H064-2",
+      "due": "2026-06-22",
+      "receipt_state": "verified_no",
+      "received": "2026-06-28",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H064-2-2",
+      "episode": "H064-2",
+      "due": "2026-06-29",
+      "receipt_state": "unresolved",
+      "received": "2026-07-04",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H064-2-3",
+      "episode": "H064-2",
+      "due": "2026-07-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-07-11",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H064-2-4",
+      "episode": "H064-2",
+      "due": "2026-07-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-07-17",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H064-2-5",
+      "episode": "H064-2",
+      "due": "2026-07-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-07-23",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H065-1-0",
+      "episode": "H065-1",
+      "due": "2026-04-20",
+      "receipt_state": "unresolved",
+      "received": "2026-04-21",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H065-1-1",
+      "episode": "H065-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-28",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H065-1-2",
+      "episode": "H065-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-10",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H065-1-3",
+      "episode": "H065-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-16",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H065-1-4",
+      "episode": "H065-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_no",
+      "received": "2026-05-22",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H065-1-5",
+      "episode": "H065-1",
+      "due": "2026-05-25",
+      "receipt_state": "unresolved",
+      "received": "2026-05-28",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H066-1-0",
+      "episode": "H066-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-30",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H066-1-1",
+      "episode": "H066-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-06",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H066-1-2",
+      "episode": "H066-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H066-1-3",
+      "episode": "H066-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_no",
+      "received": "2026-05-24",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H066-1-4",
+      "episode": "H066-1",
+      "due": "2026-05-25",
+      "receipt_state": "unresolved",
+      "received": "2026-05-30",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H066-1-5",
+      "episode": "H066-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-06",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H067-1-0",
+      "episode": "H067-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-08",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H067-1-1",
+      "episode": "H067-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-14",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H067-1-2",
+      "episode": "H067-1",
+      "due": "2026-05-18",
+      "receipt_state": "unresolved",
+      "received": "2026-05-20",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H067-1-3",
+      "episode": "H067-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-27",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H067-1-4",
+      "episode": "H067-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-02",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H067-1-5",
+      "episode": "H067-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-14",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H068-1-0",
+      "episode": "H068-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_no",
+      "received": "2026-05-16",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H068-1-1",
+      "episode": "H068-1",
+      "due": "2026-05-18",
+      "receipt_state": "unresolved",
+      "received": "2026-05-22",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H068-1-2",
+      "episode": "H068-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-29",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H068-1-3",
+      "episode": "H068-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-04",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H068-1-4",
+      "episode": "H068-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-10",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H068-1-5",
+      "episode": "H068-1",
+      "due": "2026-06-15",
+      "receipt_state": "unresolved",
+      "received": "2026-06-16",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H069-1-0",
+      "episode": "H069-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-19",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H069-1-1",
+      "episode": "H069-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-31",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H069-1-2",
+      "episode": "H069-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-06",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H069-1-3",
+      "episode": "H069-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_no",
+      "received": "2026-06-12",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H069-1-4",
+      "episode": "H069-1",
+      "due": "2026-06-15",
+      "receipt_state": "unresolved",
+      "received": "2026-06-18",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H069-1-5",
+      "episode": "H069-1",
+      "due": "2026-06-22",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-25",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H070-1-0",
+      "episode": "H070-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-27",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H070-1-1",
+      "episode": "H070-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-02",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H070-1-2",
+      "episode": "H070-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_no",
+      "received": "2026-06-14",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H070-1-3",
+      "episode": "H070-1",
+      "due": "2026-06-15",
+      "receipt_state": "unresolved",
+      "received": "2026-06-20",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H070-1-4",
+      "episode": "H070-1",
+      "due": "2026-06-22",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-27",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H070-1-5",
+      "episode": "H070-1",
+      "due": "2026-06-29",
+      "receipt_state": "verified_yes",
+      "received": "2026-07-03",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H071-1-0",
+      "episode": "H071-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-04",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H071-1-1",
+      "episode": "H071-1",
+      "due": "2026-06-08",
+      "receipt_state": "unresolved",
+      "received": "2026-06-10",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H071-1-2",
+      "episode": "H071-1",
+      "due": "2026-06-15",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-17",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H071-1-3",
+      "episode": "H071-1",
+      "due": "2026-06-22",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-23",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H071-1-4",
+      "episode": "H071-1",
+      "due": "2026-06-29",
+      "receipt_state": "verified_yes",
+      "received": "2026-07-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H071-1-5",
+      "episode": "H071-1",
+      "due": "2026-07-06",
+      "receipt_state": "verified_no",
+      "received": "2026-07-11",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H072-1-0",
+      "episode": "H072-1",
+      "due": "2026-02-02",
+      "receipt_state": "unresolved",
+      "received": "2026-02-06",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H072-1-1",
+      "episode": "H072-1",
+      "due": "2026-02-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-13",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H072-1-2",
+      "episode": "H072-1",
+      "due": "2026-02-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-19",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H072-1-3",
+      "episode": "H072-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-25",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H072-1-4",
+      "episode": "H072-1",
+      "due": "2026-03-02",
+      "receipt_state": "unresolved",
+      "received": "2026-03-03",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H072-1-5",
+      "episode": "H072-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-10",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H072-2-0",
+      "episode": "H072-2",
+      "due": "2026-04-06",
+      "receipt_state": "unresolved",
+      "received": "2026-04-11",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H072-2-1",
+      "episode": "H072-2",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-18",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H072-2-2",
+      "episode": "H072-2",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-24",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H072-2-3",
+      "episode": "H072-2",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-30",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H072-2-4",
+      "episode": "H072-2",
+      "due": "2026-05-04",
+      "receipt_state": "unresolved",
+      "received": "2026-05-06",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H072-2-5",
+      "episode": "H072-2",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-13",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H073-1-0",
+      "episode": "H073-1",
+      "due": "2026-02-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-15",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H073-1-1",
+      "episode": "H073-1",
+      "due": "2026-02-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-21",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H073-1-2",
+      "episode": "H073-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_no",
+      "received": "2026-02-27",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H073-1-3",
+      "episode": "H073-1",
+      "due": "2026-03-02",
+      "receipt_state": "unresolved",
+      "received": "2026-03-05",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H073-1-4",
+      "episode": "H073-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H073-1-5",
+      "episode": "H073-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-18",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H074-1-0",
+      "episode": "H074-1",
+      "due": "2026-02-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-17",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H074-1-1",
+      "episode": "H074-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_no",
+      "received": "2026-03-01",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H074-1-2",
+      "episode": "H074-1",
+      "due": "2026-03-02",
+      "receipt_state": "unresolved",
+      "received": "2026-03-07",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H074-1-3",
+      "episode": "H074-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-14",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H074-1-4",
+      "episode": "H074-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-20",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H074-1-5",
+      "episode": "H074-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H075-1-0",
+      "episode": "H075-1",
+      "due": "2026-02-23",
+      "receipt_state": "unresolved",
+      "received": "2026-02-25",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H075-1-1",
+      "episode": "H075-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-04",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H075-1-2",
+      "episode": "H075-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-10",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H075-1-3",
+      "episode": "H075-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-22",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H075-1-4",
+      "episode": "H075-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_no",
+      "received": "2026-03-28",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H075-1-5",
+      "episode": "H075-1",
+      "due": "2026-03-30",
+      "receipt_state": "unresolved",
+      "received": "2026-04-03",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H076-1-0",
+      "episode": "H076-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-06",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H076-1-1",
+      "episode": "H076-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H076-1-2",
+      "episode": "H076-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-18",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H076-1-3",
+      "episode": "H076-1",
+      "due": "2026-03-23",
+      "receipt_state": "unresolved",
+      "received": "2026-03-24",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H076-1-4",
+      "episode": "H076-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-31",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H076-1-5",
+      "episode": "H076-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H077-1-0",
+      "episode": "H077-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-14",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H077-1-1",
+      "episode": "H077-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_no",
+      "received": "2026-03-20",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H077-1-2",
+      "episode": "H077-1",
+      "due": "2026-03-23",
+      "receipt_state": "unresolved",
+      "received": "2026-03-26",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H077-1-3",
+      "episode": "H077-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-02",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H077-1-4",
+      "episode": "H077-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-08",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H077-1-5",
+      "episode": "H077-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-14",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H078-1-0",
+      "episode": "H078-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_no",
+      "received": "2026-03-22",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H078-1-1",
+      "episode": "H078-1",
+      "due": "2026-03-23",
+      "receipt_state": "unresolved",
+      "received": "2026-03-28",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H078-1-2",
+      "episode": "H078-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-04",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H078-1-3",
+      "episode": "H078-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-10",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H078-1-4",
+      "episode": "H078-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-16",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H078-1-5",
+      "episode": "H078-1",
+      "due": "2026-04-20",
+      "receipt_state": "unresolved",
+      "received": "2026-04-22",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H079-1-0",
+      "episode": "H079-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-25",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H079-1-1",
+      "episode": "H079-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-31",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H079-1-2",
+      "episode": "H079-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H079-1-3",
+      "episode": "H079-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_no",
+      "received": "2026-04-18",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H079-1-4",
+      "episode": "H079-1",
+      "due": "2026-04-20",
+      "receipt_state": "unresolved",
+      "received": "2026-04-24",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H079-1-5",
+      "episode": "H079-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-01",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H080-1-0",
+      "episode": "H080-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-02",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H080-1-1",
+      "episode": "H080-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-08",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H080-1-2",
+      "episode": "H080-1",
+      "due": "2026-04-13",
+      "receipt_state": "unresolved",
+      "received": "2026-04-14",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H080-1-3",
+      "episode": "H080-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-21",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H080-1-4",
+      "episode": "H080-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-03",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H080-1-5",
+      "episode": "H080-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-09",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H080-2-0",
+      "episode": "H080-2",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H080-2-1",
+      "episode": "H080-2",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-11",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H080-2-2",
+      "episode": "H080-2",
+      "due": "2026-06-15",
+      "receipt_state": "unresolved",
+      "received": "2026-06-17",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H080-2-3",
+      "episode": "H080-2",
+      "due": "2026-06-22",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-24",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H080-2-4",
+      "episode": "H080-2",
+      "due": "2026-06-29",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-30",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H080-2-5",
+      "episode": "H080-2",
+      "due": "2026-07-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-07-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H081-1-0",
+      "episode": "H081-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_no",
+      "received": "2026-04-10",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H081-1-1",
+      "episode": "H081-1",
+      "due": "2026-04-13",
+      "receipt_state": "unresolved",
+      "received": "2026-04-16",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H081-1-2",
+      "episode": "H081-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-23",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H081-1-3",
+      "episode": "H081-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-29",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H081-1-4",
+      "episode": "H081-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H081-1-5",
+      "episode": "H081-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_no",
+      "received": "2026-05-17",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H082-1-0",
+      "episode": "H082-1",
+      "due": "2026-04-13",
+      "receipt_state": "unresolved",
+      "received": "2026-04-18",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H082-1-1",
+      "episode": "H082-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-25",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H082-1-2",
+      "episode": "H082-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-01",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H082-1-3",
+      "episode": "H082-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-07",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H082-1-4",
+      "episode": "H082-1",
+      "due": "2026-05-11",
+      "receipt_state": "unresolved",
+      "received": "2026-05-13",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H082-1-5",
+      "episode": "H082-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-20",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H083-1-0",
+      "episode": "H083-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-21",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H083-1-1",
+      "episode": "H083-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-03",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H083-1-2",
+      "episode": "H083-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_no",
+      "received": "2026-05-09",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H083-1-3",
+      "episode": "H083-1",
+      "due": "2026-05-11",
+      "receipt_state": "unresolved",
+      "received": "2026-05-15",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H083-1-4",
+      "episode": "H083-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-22",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H083-1-5",
+      "episode": "H083-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-28",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H084-1-0",
+      "episode": "H084-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-29",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H084-1-1",
+      "episode": "H084-1",
+      "due": "2026-05-04",
+      "receipt_state": "unresolved",
+      "received": "2026-05-05",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H084-1-2",
+      "episode": "H084-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H084-1-3",
+      "episode": "H084-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-24",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H084-1-4",
+      "episode": "H084-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-30",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H084-1-5",
+      "episode": "H084-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_no",
+      "received": "2026-06-05",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H085-1-0",
+      "episode": "H085-1",
+      "due": "2026-05-04",
+      "receipt_state": "unresolved",
+      "received": "2026-05-07",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H085-1-1",
+      "episode": "H085-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-14",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H085-1-2",
+      "episode": "H085-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-20",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H085-1-3",
+      "episode": "H085-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H085-1-4",
+      "episode": "H085-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_no",
+      "received": "2026-06-07",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H085-1-5",
+      "episode": "H085-1",
+      "due": "2026-06-08",
+      "receipt_state": "unresolved",
+      "received": "2026-06-13",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H086-1-0",
+      "episode": "H086-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-16",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H086-1-1",
+      "episode": "H086-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-22",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H086-1-2",
+      "episode": "H086-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-28",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H086-1-3",
+      "episode": "H086-1",
+      "due": "2026-06-01",
+      "receipt_state": "unresolved",
+      "received": "2026-06-03",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H086-1-4",
+      "episode": "H086-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-10",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H086-1-5",
+      "episode": "H086-1",
+      "due": "2026-06-15",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-16",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H087-1-0",
+      "episode": "H087-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-24",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H087-1-1",
+      "episode": "H087-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_no",
+      "received": "2026-05-30",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H087-1-2",
+      "episode": "H087-1",
+      "due": "2026-06-01",
+      "receipt_state": "unresolved",
+      "received": "2026-06-05",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H087-1-3",
+      "episode": "H087-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H087-1-4",
+      "episode": "H087-1",
+      "due": "2026-06-15",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-18",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H087-1-5",
+      "episode": "H087-1",
+      "due": "2026-06-22",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-24",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H088-1-0",
+      "episode": "H088-1",
+      "due": "2026-05-25",
+      "receipt_state": "unresolved",
+      "received": "2026-05-26",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H088-1-1",
+      "episode": "H088-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-02",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H088-1-2",
+      "episode": "H088-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-14",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H088-1-3",
+      "episode": "H088-1",
+      "due": "2026-06-15",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-20",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H088-1-4",
+      "episode": "H088-1",
+      "due": "2026-06-22",
+      "receipt_state": "verified_no",
+      "received": "2026-06-26",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H088-1-5",
+      "episode": "H088-1",
+      "due": "2026-06-29",
+      "receipt_state": "unresolved",
+      "received": "2026-07-02",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H088-2-0",
+      "episode": "H088-2",
+      "due": "2026-07-27",
+      "receipt_state": "unresolved",
+      "received": "2026-07-29",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H088-2-1",
+      "episode": "H088-2",
+      "due": "2026-08-03",
+      "receipt_state": "verified_yes",
+      "received": "2026-08-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H088-2-2",
+      "episode": "H088-2",
+      "due": "2026-08-10",
+      "receipt_state": "verified_yes",
+      "received": "2026-08-11",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H088-2-3",
+      "episode": "H088-2",
+      "due": "2026-08-17",
+      "receipt_state": "verified_yes",
+      "received": "2026-08-23",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H088-2-4",
+      "episode": "H088-2",
+      "due": "2026-08-24",
+      "receipt_state": "verified_no",
+      "received": "2026-08-29",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H088-2-5",
+      "episode": "H088-2",
+      "due": "2026-08-31",
+      "receipt_state": "unresolved",
+      "received": "2026-09-04",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H089-1-0",
+      "episode": "H089-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-04",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H089-1-1",
+      "episode": "H089-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-10",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H089-1-2",
+      "episode": "H089-1",
+      "due": "2026-06-15",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-16",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H089-1-3",
+      "episode": "H089-1",
+      "due": "2026-06-22",
+      "receipt_state": "verified_no",
+      "received": "2026-06-28",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H089-1-4",
+      "episode": "H089-1",
+      "due": "2026-06-29",
+      "receipt_state": "unresolved",
+      "received": "2026-07-04",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H089-1-5",
+      "episode": "H089-1",
+      "due": "2026-07-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-07-11",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H090-1-0",
+      "episode": "H090-1",
+      "due": "2026-02-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-06",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H090-1-1",
+      "episode": "H090-1",
+      "due": "2026-02-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H090-1-2",
+      "episode": "H090-1",
+      "due": "2026-02-16",
+      "receipt_state": "unresolved",
+      "received": "2026-02-18",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H090-1-3",
+      "episode": "H090-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-25",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H090-1-4",
+      "episode": "H090-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-03",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H090-1-5",
+      "episode": "H090-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-15",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H091-1-0",
+      "episode": "H091-1",
+      "due": "2026-02-09",
+      "receipt_state": "verified_no",
+      "received": "2026-02-14",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H091-1-1",
+      "episode": "H091-1",
+      "due": "2026-02-16",
+      "receipt_state": "unresolved",
+      "received": "2026-02-20",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H091-1-2",
+      "episode": "H091-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-27",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H091-1-3",
+      "episode": "H091-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H091-1-4",
+      "episode": "H091-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-11",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H091-1-5",
+      "episode": "H091-1",
+      "due": "2026-03-16",
+      "receipt_state": "unresolved",
+      "received": "2026-03-17",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H092-1-0",
+      "episode": "H092-1",
+      "due": "2026-02-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-17",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H092-1-1",
+      "episode": "H092-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-01",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H092-1-2",
+      "episode": "H092-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-07",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H092-1-3",
+      "episode": "H092-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_no",
+      "received": "2026-03-13",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H092-1-4",
+      "episode": "H092-1",
+      "due": "2026-03-16",
+      "receipt_state": "unresolved",
+      "received": "2026-03-19",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H092-1-5",
+      "episode": "H092-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H093-1-0",
+      "episode": "H093-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-25",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H093-1-1",
+      "episode": "H093-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-03",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H093-1-2",
+      "episode": "H093-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_no",
+      "received": "2026-03-15",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H093-1-3",
+      "episode": "H093-1",
+      "due": "2026-03-16",
+      "receipt_state": "unresolved",
+      "received": "2026-03-21",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H093-1-4",
+      "episode": "H093-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-28",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H093-1-5",
+      "episode": "H093-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-03",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H094-1-0",
+      "episode": "H094-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H094-1-1",
+      "episode": "H094-1",
+      "due": "2026-03-09",
+      "receipt_state": "unresolved",
+      "received": "2026-03-11",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H094-1-2",
+      "episode": "H094-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-18",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H094-1-3",
+      "episode": "H094-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-24",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H094-1-4",
+      "episode": "H094-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H094-1-5",
+      "episode": "H094-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_no",
+      "received": "2026-04-11",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H095-1-0",
+      "episode": "H095-1",
+      "due": "2026-03-09",
+      "receipt_state": "unresolved",
+      "received": "2026-03-13",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H095-1-1",
+      "episode": "H095-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-20",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H095-1-2",
+      "episode": "H095-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H095-1-3",
+      "episode": "H095-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-01",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H095-1-4",
+      "episode": "H095-1",
+      "due": "2026-04-06",
+      "receipt_state": "unresolved",
+      "received": "2026-04-07",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H095-1-5",
+      "episode": "H095-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-14",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H096-1-0",
+      "episode": "H096-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-22",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H096-1-1",
+      "episode": "H096-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-28",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H096-1-2",
+      "episode": "H096-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_no",
+      "received": "2026-04-03",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H096-1-3",
+      "episode": "H096-1",
+      "due": "2026-04-06",
+      "receipt_state": "unresolved",
+      "received": "2026-04-09",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H096-1-4",
+      "episode": "H096-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-16",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H096-1-5",
+      "episode": "H096-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-22",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H096-2-0",
+      "episode": "H096-2",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-19",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H096-2-1",
+      "episode": "H096-2",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-31",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H096-2-2",
+      "episode": "H096-2",
+      "due": "2026-06-01",
+      "receipt_state": "verified_no",
+      "received": "2026-06-06",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H096-2-3",
+      "episode": "H096-2",
+      "due": "2026-06-08",
+      "receipt_state": "unresolved",
+      "received": "2026-06-12",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H096-2-4",
+      "episode": "H096-2",
+      "due": "2026-06-15",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-19",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H096-2-5",
+      "episode": "H096-2",
+      "due": "2026-06-22",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-25",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H097-1-0",
+      "episode": "H097-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-24",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H097-1-1",
+      "episode": "H097-1",
+      "due": "2026-03-30",
+      "receipt_state": "verified_no",
+      "received": "2026-04-05",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H097-1-2",
+      "episode": "H097-1",
+      "due": "2026-04-06",
+      "receipt_state": "unresolved",
+      "received": "2026-04-11",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H097-1-3",
+      "episode": "H097-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-18",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H097-1-4",
+      "episode": "H097-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-24",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H097-1-5",
+      "episode": "H097-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-30",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H098-1-0",
+      "episode": "H098-1",
+      "due": "2026-03-30",
+      "receipt_state": "unresolved",
+      "received": "2026-04-01",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H098-1-1",
+      "episode": "H098-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-08",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H098-1-2",
+      "episode": "H098-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-14",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H098-1-3",
+      "episode": "H098-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H098-1-4",
+      "episode": "H098-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_no",
+      "received": "2026-05-02",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H098-1-5",
+      "episode": "H098-1",
+      "due": "2026-05-04",
+      "receipt_state": "unresolved",
+      "received": "2026-05-08",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H099-1-0",
+      "episode": "H099-1",
+      "due": "2026-04-06",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-10",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H099-1-1",
+      "episode": "H099-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-16",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H099-1-2",
+      "episode": "H099-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-22",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H099-1-3",
+      "episode": "H099-1",
+      "due": "2026-04-27",
+      "receipt_state": "unresolved",
+      "received": "2026-04-28",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H099-1-4",
+      "episode": "H099-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H099-1-5",
+      "episode": "H099-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-17",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H100-1-0",
+      "episode": "H100-1",
+      "due": "2026-04-13",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-18",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H100-1-1",
+      "episode": "H100-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_no",
+      "received": "2026-04-24",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H100-1-2",
+      "episode": "H100-1",
+      "due": "2026-04-27",
+      "receipt_state": "unresolved",
+      "received": "2026-04-30",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H100-1-3",
+      "episode": "H100-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-07",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H100-1-4",
+      "episode": "H100-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-13",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H100-1-5",
+      "episode": "H100-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-19",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H101-1-0",
+      "episode": "H101-1",
+      "due": "2026-04-20",
+      "receipt_state": "verified_no",
+      "received": "2026-04-26",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H101-1-1",
+      "episode": "H101-1",
+      "due": "2026-04-27",
+      "receipt_state": "unresolved",
+      "received": "2026-05-02",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H101-1-2",
+      "episode": "H101-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-09",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H101-1-3",
+      "episode": "H101-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-15",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H101-1-4",
+      "episode": "H101-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-21",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H101-1-5",
+      "episode": "H101-1",
+      "due": "2026-05-25",
+      "receipt_state": "unresolved",
+      "received": "2026-05-27",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H102-1-0",
+      "episode": "H102-1",
+      "due": "2026-04-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-04-29",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H102-1-1",
+      "episode": "H102-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H102-1-2",
+      "episode": "H102-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-17",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H102-1-3",
+      "episode": "H102-1",
+      "due": "2026-05-18",
+      "receipt_state": "verified_no",
+      "received": "2026-05-23",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H102-1-4",
+      "episode": "H102-1",
+      "due": "2026-05-25",
+      "receipt_state": "unresolved",
+      "received": "2026-05-29",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H102-1-5",
+      "episode": "H102-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H103-1-0",
+      "episode": "H103-1",
+      "due": "2026-05-04",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-07",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H103-1-1",
+      "episode": "H103-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-13",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H103-1-2",
+      "episode": "H103-1",
+      "due": "2026-05-18",
+      "receipt_state": "unresolved",
+      "received": "2026-05-19",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H103-1-3",
+      "episode": "H103-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H103-1-4",
+      "episode": "H103-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-07",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H103-1-5",
+      "episode": "H103-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-13",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H104-1-0",
+      "episode": "H104-1",
+      "due": "2026-05-11",
+      "receipt_state": "verified_no",
+      "received": "2026-05-15",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H104-1-1",
+      "episode": "H104-1",
+      "due": "2026-05-18",
+      "receipt_state": "unresolved",
+      "received": "2026-05-21",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H104-1-2",
+      "episode": "H104-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-28",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H104-1-3",
+      "episode": "H104-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-03",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H104-1-4",
+      "episode": "H104-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-09",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H104-1-5",
+      "episode": "H104-1",
+      "due": "2026-06-15",
+      "receipt_state": "verified_no",
+      "received": "2026-06-21",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H104-2-0",
+      "episode": "H104-2",
+      "due": "2026-07-13",
+      "receipt_state": "verified_no",
+      "received": "2026-07-18",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H104-2-1",
+      "episode": "H104-2",
+      "due": "2026-07-20",
+      "receipt_state": "unresolved",
+      "received": "2026-07-24",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H104-2-2",
+      "episode": "H104-2",
+      "due": "2026-07-27",
+      "receipt_state": "verified_yes",
+      "received": "2026-07-31",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H104-2-3",
+      "episode": "H104-2",
+      "due": "2026-08-03",
+      "receipt_state": "verified_yes",
+      "received": "2026-08-06",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H104-2-4",
+      "episode": "H104-2",
+      "due": "2026-08-10",
+      "receipt_state": "verified_yes",
+      "received": "2026-08-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H104-2-5",
+      "episode": "H104-2",
+      "due": "2026-08-17",
+      "receipt_state": "unresolved",
+      "received": "2026-08-18",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H105-1-0",
+      "episode": "H105-1",
+      "due": "2026-05-18",
+      "receipt_state": "unresolved",
+      "received": "2026-05-23",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H105-1-1",
+      "episode": "H105-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-30",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H105-1-2",
+      "episode": "H105-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-05",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H105-1-3",
+      "episode": "H105-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-11",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H105-1-4",
+      "episode": "H105-1",
+      "due": "2026-06-15",
+      "receipt_state": "unresolved",
+      "received": "2026-06-17",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H105-1-5",
+      "episode": "H105-1",
+      "due": "2026-06-22",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-24",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H106-1-0",
+      "episode": "H106-1",
+      "due": "2026-05-25",
+      "receipt_state": "verified_yes",
+      "received": "2026-05-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H106-1-1",
+      "episode": "H106-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-07",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H106-1-2",
+      "episode": "H106-1",
+      "due": "2026-06-08",
+      "receipt_state": "verified_no",
+      "received": "2026-06-13",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H106-1-3",
+      "episode": "H106-1",
+      "due": "2026-06-15",
+      "receipt_state": "unresolved",
+      "received": "2026-06-19",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H106-1-4",
+      "episode": "H106-1",
+      "due": "2026-06-22",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H106-1-5",
+      "episode": "H106-1",
+      "due": "2026-06-29",
+      "receipt_state": "verified_yes",
+      "received": "2026-07-02",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H107-1-0",
+      "episode": "H107-1",
+      "due": "2026-06-01",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-03",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H107-1-1",
+      "episode": "H107-1",
+      "due": "2026-06-08",
+      "receipt_state": "unresolved",
+      "received": "2026-06-09",
+      "original_result": "unknown",
+      "context": "vacant"
+    },
+    {
+      "id": "H107-1-2",
+      "episode": "H107-1",
+      "due": "2026-06-15",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-16",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H107-1-3",
+      "episode": "H107-1",
+      "due": "2026-06-22",
+      "receipt_state": "verified_yes",
+      "received": "2026-06-28",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H107-1-4",
+      "episode": "H107-1",
+      "due": "2026-06-29",
+      "receipt_state": "verified_yes",
+      "received": "2026-07-04",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H107-1-5",
+      "episode": "H107-1",
+      "due": "2026-07-06",
+      "receipt_state": "verified_no",
+      "received": "2026-07-10",
+      "original_result": "missed",
+      "context": "alternate_preexisting"
+    },
+    {
+      "id": "H108-1-0",
+      "episode": "H108-1",
+      "due": "2026-02-02",
+      "receipt_state": "unresolved",
+      "received": "2026-02-05",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H108-1-1",
+      "episode": "H108-1",
+      "due": "2026-02-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-12",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H108-1-2",
+      "episode": "H108-1",
+      "due": "2026-02-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-18",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H108-1-3",
+      "episode": "H108-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-24",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H108-1-4",
+      "episode": "H108-1",
+      "due": "2026-03-02",
+      "receipt_state": "verified_no",
+      "received": "2026-03-08",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H108-1-5",
+      "episode": "H108-1",
+      "due": "2026-03-09",
+      "receipt_state": "unresolved",
+      "received": "2026-03-14",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H109-1-0",
+      "episode": "H109-1",
+      "due": "2026-02-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-14",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H109-1-1",
+      "episode": "H109-1",
+      "due": "2026-02-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-20",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H109-1-2",
+      "episode": "H109-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-26",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H109-1-3",
+      "episode": "H109-1",
+      "due": "2026-03-02",
+      "receipt_state": "unresolved",
+      "received": "2026-03-04",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H109-1-4",
+      "episode": "H109-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-11",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H109-1-5",
+      "episode": "H109-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-17",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H110-1-0",
+      "episode": "H110-1",
+      "due": "2026-02-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-02-22",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H110-1-1",
+      "episode": "H110-1",
+      "due": "2026-02-23",
+      "receipt_state": "verified_no",
+      "received": "2026-02-28",
+      "original_result": "missed",
+      "context": "normal"
+    },
+    {
+      "id": "H110-1-2",
+      "episode": "H110-1",
+      "due": "2026-03-02",
+      "receipt_state": "unresolved",
+      "received": "2026-03-06",
+      "original_result": "unknown",
+      "context": "normal"
+    },
+    {
+      "id": "H110-1-3",
+      "episode": "H110-1",
+      "due": "2026-03-09",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-13",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H110-1-4",
+      "episode": "H110-1",
+      "due": "2026-03-16",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-19",
+      "original_result": "fulfilled",
+      "context": "normal"
+    },
+    {
+      "id": "H110-1-5",
+      "episode": "H110-1",
+      "due": "2026-03-23",
+      "receipt_state": "verified_yes",
+      "received": "2026-03-25",
+      "original_result": "fulfilled",
+      "context": "normal"
+    }
+  ]
+}

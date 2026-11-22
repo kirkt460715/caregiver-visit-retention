@@ -1,0 +1,40 @@
+{
+  "fields": [
+    "id",
+    "site",
+    "week",
+    "check_slots",
+    "change_slots"
+  ],
+  "key": "id",
+  "rows": [
+    {
+      "id": "P1",
+      "site": "S1",
+      "week": "2026-07-06",
+      "check_slots": "3",
+      "change_slots": "1"
+    },
+    {
+      "id": "P2",
+      "site": "S2",
+      "week": "2026-07-06",
+      "check_slots": "2",
+      "change_slots": "0"
+    },
+    {
+      "id": "P3",
+      "site": "S3",
+      "week": "2026-07-06",
+      "check_slots": "1",
+      "change_slots": "1"
+    },
+    {
+      "id": "P4",
+      "site": "S4",
+      "week": "2026-07-06",
+      "check_slots": "2",
+      "change_slots": "1"
+    }
+  ]
+}

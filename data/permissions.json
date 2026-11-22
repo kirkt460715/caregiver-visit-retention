@@ -1,0 +1,782 @@
+{
+  "fields": [
+    "household",
+    "channel",
+    "starts",
+    "status",
+    "site"
+  ],
+  "key": "household",
+  "rows": [
+    {
+      "household": "H001",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H002",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H003",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H004",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H005",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H006",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H007",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H008",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H009",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H010",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H011",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H012",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H013",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H014",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H015",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H016",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H017",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H018",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H019",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H020",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H021",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H022",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H023",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H024",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H025",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H026",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H027",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H028",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H029",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "withdrawn",
+      "site": "S2"
+    },
+    {
+      "household": "H030",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H031",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H032",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H033",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H034",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H035",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H036",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H037",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H038",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H039",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H040",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H041",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H042",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H043",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H044",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H045",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H046",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H047",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H048",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H049",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H050",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H051",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H052",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H053",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H054",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H055",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H056",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H057",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H058",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "withdrawn",
+      "site": "S3"
+    },
+    {
+      "household": "H059",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H060",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H061",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H062",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H063",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H064",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H065",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H066",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H067",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H068",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H069",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H070",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H071",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H072",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H073",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H074",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H075",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H076",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H077",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H078",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H079",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H080",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H081",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H082",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H083",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H084",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H085",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H086",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H087",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "withdrawn",
+      "site": "S4"
+    },
+    {
+      "household": "H088",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H089",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H090",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H091",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H092",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H093",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H094",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H095",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H096",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H097",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H098",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H099",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H100",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H101",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H102",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H103",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H104",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H105",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H106",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    },
+    {
+      "household": "H107",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S4"
+    },
+    {
+      "household": "H108",
+      "channel": "text",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S1"
+    },
+    {
+      "household": "H109",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S2"
+    },
+    {
+      "household": "H110",
+      "channel": "phone",
+      "starts": "2026-02-01",
+      "status": "active",
+      "site": "S3"
+    }
+  ]
+}

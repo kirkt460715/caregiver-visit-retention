@@ -1,0 +1,59 @@
+{
+  "fields": [
+    "id",
+    "episode",
+    "status",
+    "starts",
+    "ends",
+    "recorded_on",
+    "new_provider"
+  ],
+  "key": "id",
+  "rows": [
+    {
+      "id": "C01",
+      "episode": "H064-2",
+      "status": "temporary_stay",
+      "starts": "2026-06-07",
+      "ends": "2026-06-17",
+      "recorded_on": "2026-06-08",
+      "new_provider": ""
+    },
+    {
+      "id": "C02",
+      "episode": "H096-2",
+      "status": "transferred",
+      "starts": "2026-06-22",
+      "ends": "",
+      "recorded_on": "2026-06-21",
+      "new_provider": "S3"
+    },
+    {
+      "id": "C03",
+      "episode": "H110-1",
+      "status": "new_alternate",
+      "starts": "2026-03-20",
+      "ends": "2026-03-30",
+      "recorded_on": "2026-03-23",
+      "new_provider": "S4"
+    },
+    {
+      "id": "C04",
+      "episode": "H106-1",
+      "status": "moved",
+      "starts": "2026-06-05",
+      "ends": "",
+      "recorded_on": "2026-06-08",
+      "new_provider": ""
+    },
+    {
+      "id": "C05",
+      "episode": "H104-2",
+      "status": "new_alternate",
+      "starts": "2026-06-25",
+      "ends": "2026-07-02",
+      "recorded_on": "2026-06-28",
+      "new_provider": "S1"
+    }
+  ]
+}
